@@ -1,0 +1,94 @@
+RESUMEN DE CAMBIOS — Microproyecto 1 LSTM Música
+==================================================
+
+NOTEBOOKS
+---------
+- microproyecto_1_2.ipynb  → versión estable con buenos resultados
+- microproyecto_1_3.ipynb  → versión experimental con MidiBERT
+- eda_beethoven.ipynb       → notebook de análisis exploratorio independiente
+
+
+microproyecto_1_2.ipynb — CAMBIOS RESPECTO AL ORIGINAL
+-------------------------------------------------------
+MODELO (cell 23):
+  - EMBED_DIM:   32 → 64
+  - HIDDEN_SIZE: 256 → 512
+  - NUM_LAYERS:  2 → 3
+  - DROPOUT entre capas LSTM: 0.5 → 0.3
+  - Dropout(0.3) añadido antes de las cabezas de predicción (dropout_out)
+
+LOSS FUNCTION (cell 24):
+  - Step y Duration: MAE (regresión) → CrossEntropy sobre 16 bins cuantiles
+    · Razón: distribuciones bimodales — MAE predice el promedio, nunca captura los dos modos
+  - LAMBDA_STEP y LAMBDA_DURATION eliminados (CE tiene misma escala que pitch CE)
+  - Velocity: sigue con MAE (distribución unimodal, regresión es suficiente)
+
+DATOS (cell 19-20):
+  - Data augmentation: 6 transposiciones por canción (±1, ±2, ±4 semitonos) → 7x más datos de train
+  - Bins: N_BINS=16 bins por cuantiles para step y duration en espacio normalizado
+  - BLOCK_SIZE: 32 (sin cambio respecto al original restaurado)
+
+ENTRENAMIENTO (cell 26):
+  - LR:           0.001 → 0.0003
+  - WEIGHT_DECAY: 0.001 → 0.0001
+
+GENERACIÓN (cell 29):
+  - Step y Duration: ya no predice valor continuo sino bin → mapea al centro del bin
+
+EDA (cell 17 — nueva):
+  - Análisis de BPM por archivo MIDI
+  - Variación de tempo interna (get_tempo_changes)
+  - % de alineación de steps a grid de semicorcheas para distintos BPMs
+  - Justifica por qué bins cuantiles son mejores que cuantización musical para Beethoven
+
+
+microproyecto_1_3.ipynb — ADICIONAL SOBRE 1_2
+----------------------------------------------
+  - BLOCK_SIZE: 32 → 64 (más contexto)
+  - Embeddings MidiBERT (sander-wood/midibert):
+    · 768D completos, sin PCA
+    · Fine-tuning activado (requires_grad=True)
+    · Proyección learnable Linear(768 → 64) antes del LSTM
+    · Fallback a embedding aleatorio si MidiBERT no está disponible
+  - t-SNE al final del notebook (cell 36):
+    · Visualiza embeddings de pitch entrenados en 2D
+    · Coloreado por octava y por nombre de nota (Do, Re, Mi...)
+
+
+eda_beethoven.ipynb — CONTENIDO
+--------------------------------
+  Sección 1 — Pitch:
+    · Histograma general con colores por función armónica
+    · Solo pitches usados (rango efectivo, ~50 de 128 posibles)
+    · Entropía de referencia aleatoria para interpretar la CE del modelo
+
+  Sección 2 — Notas por canción:
+    · Barras horizontales por archivo
+    · Distribución de longitud de canciones
+
+  Sección 3 — Bimodalidad (Step y Duration):
+    · Histograma + KDE con detección automática de picos
+    · Pie chart de proporción por modo (rápido / valle / lento)
+    · Justifica el uso de CrossEntropy + bins
+
+  Sección 4 — Análisis de número de bins:
+    · Comparación visual de 4 / 8 / 16 / 32 bins
+    · Métrica de uniformidad (entropía / entropía máxima)
+    · Bins casi vacíos marcados en rojo
+    · Tabla resumen para decidir N_BINS óptimo
+
+  Sección 5 — Velocity:
+    · Distribución + KDE
+    · Justifica por qué se mantiene como regresión
+
+  Sección 6 — Embeddings MidiBERT (t-SNE):
+    · Carga embeddings 768D de MidiBERT
+    · Baseline aleatorio para comparar
+    · t-SNE coloreado por octava y por nombre de nota
+    · Qué buscar: agrupación de notas del mismo nombre, gradiente de octavas
+
+
+CORRECCIONES TÉCNICAS
+---------------------
+  - TSNE: n_iter → max_iter (sklearn ≥ 1.2) en eda_beethoven.ipynb y microproyecto_1_3.ipynb
+  - pretty_midi: get_tempo_change_times() → get_tempo_changes() (API correcta)
