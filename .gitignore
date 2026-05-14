@@ -44,3 +44,8 @@ output.wav
 *.pt
 *.pth
 checkpoints/
+
+# Archivos demasiado grandes para GitHub (>100 MB)
+Microproyectos/Microproyecto_2/Microproyecto_2.zip
+Microproyectos/Microproyecto_2/Entrega_final/Models/
+Microproyectos/Microproyecto_3/Microproyecto_3_Grupo_2_folder/
