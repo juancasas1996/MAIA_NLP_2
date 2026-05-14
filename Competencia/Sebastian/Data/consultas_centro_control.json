@@ -1,0 +1,3864 @@
+[
+  {
+    "query": "What is Pilot Ana Valdivia's primary specialization that makes her critical for maintaining Kuntur Station's altitude?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "According to the complete systems overview, what is the star-like module configuration of Kuntur Station?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "Which module did Commander Santiago Reyes oversee, and what were his secondary responsibilities?",
+    "doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What is the typical duration for completing the MASA Astronaut Training Program from selection to spaceflight readiness?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-053"
+  },
+  {
+    "query": "Can you confirm the percentage increase in communication bandwidth achieved by the Colibrí antenna upgrade?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What are the differences between the Colibrí module and other modules like Jaguar or Quetzal?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What are the acceptable oxygen level ranges that Kozlov maintains in the Jaguar module?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Radiation sensors in Colibrí are reading 1.3 mSv/hr and rising—Commander Reyes wants to know what emergency steps we take for this kind of event.",
+    "doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "Which module does Commander Santiago Reyes oversee during a medical emergency response?",
+    "doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Are there any specific atmospheric composition changes that have been linked to MASA's launch operations?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "Can you confirm the start and end dates of the Cóndor-4 emergency thermal repair mission?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Can you describe the redundant CO2 scrubbing systems Kozlov designed for emergency scenarios?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What are the limitations of medical evacuation options that Mendoza must account for on Kuntur Station?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Which systems are used for stabilizing the station’s orientation, and where are they located?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "What is the orbital path of Kuntur Station and how does it aid in monitoring environmental changes?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "According to the atmospheric emergency protocols, what threshold triggers MASA-SEC-009 for toxic atmosphere detection?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Who monitors the telemetry from the Colibrí's navigation systems during docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How does Kozlov's dual nationality benefit the crew dynamics on long-duration missions?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Can you confirm the three core principles of MASA's public communication strategy?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What is the mandatory response protocol if radiation levels exceed safe thresholds on Kuntur Station?",
+    "doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Which module on Kuntur Station serves as the hub for communal relaxation, and what features make it special for crew downtime?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "How many redundant oxygen storage tanks does the Jaguar module have, and where are they located?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What are the specific medical specializations of the officer currently stationed in the Tucán module?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What’s the nominal pressure for the oxygen distribution network across the station?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What safety protocols are followed when heating food in the galley?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "What’s the expected time for one complete orbit around Earth?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What measures are in place to mitigate noise pollution from launch operations, especially for nearby indigenous communities?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "How does Valdivia's understanding of orbital mechanics impact docking procedures on Kuntur Station?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "How frequently are the emergency drills conducted across all modules of Kuntur Station?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "How does the patch for the current mission differ from previous ones in terms of design elements?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Are there any specific snacks provided to accommodate individual energy needs?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Tucán hull stress sensors are reading 94.9%—should we log an alert on this?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How does Commander Reyes foster team cohesion while addressing complex technical challenges?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "What role did Valdivia play in managing gravitational and radiation conditions during her previous missions?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "What systems were initialized following the deployment of the solar arrays?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "What is the primary module where food preparation takes place on Kuntur Station?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What happens if humidity levels drop below 30% in the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Which module was dedicated to biological research, and who managed it during this mission?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "How many Power Distribution Units are installed in the Cóndor module?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What is the minimum state of charge the battery management system aims to maintain during eclipse periods?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the average duration of the docking procedure from initial approach to secure docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What are the primary functions of the ventilation, heating, and cooling systems in Quetzal?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What is the primary focus of MASA's educational initiatives in schools?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "How long after docking did Commander Reyes begin the initial system health check?",
+    "doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Pilot Valdivia, please verify the last orbital adjustment you performed and the protocol you followed",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "What factors influence the menu design process for long-duration missions?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Which international space agencies has MASA established partnership agreements with under its cooperation framework?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Is there a specific fitness assessment that candidates must pass to demonstrate endurance for spaceflight?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Can you confirm the humidity parameters that trigger a low-severity alert in the research module?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What can crew members see through the observation windows in the Colibrí module during their recreation time?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Medical Officer Lucía Mendoza just reported crew vitals in Quetzal showing distress—what emergency procedure should we initiate for this situation?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "During the hands-on training phase, do trainees receive specific instruction on the Cóndor module’s life support systems?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What was the specific role of Mission Specialist Fatima Al-Hassan during the Cóndor-3 activation?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "How does the Quetzal module contribute to maintaining astronaut health in space?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What is the full duration of the Cóndor-3 mission, and which crew members were assigned to the Quetzal module?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Which modules are included in the scope of the Daily System Health Check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "What is the maximum severity level at which Mendoza can activate medical emergency protocols?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "What is the ADCO project, which agencies are involved, and which module hosts the research?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the traditional role of mission patches in MASA's cultural identity since its founding?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "Which module's life support infrastructure is the focus of the bi-weekly MASA-OPS-010 procedure?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Can you verify the nationality of Medical Officer Lucía Mendoza and her module assignment?",
+    "doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "How does the antenna array ensure continuous coverage as Kuntur Station orbits the Earth?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Who is responsible for selecting the artists that design the MASA mission patches?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "How many BMS controllers are monitoring the battery bank, and what parameters do they track?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Cóndor's temperature is rising at 4.9 degrees per minute—what emergency procedure should we initiate? Commander Reyes just reported unusual heat near the command console.",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "In the Kuntur Station complete systems overview, what is the star-like module configuration and how are Cóndor and Quetzal interconnected?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Can you describe the role of the *Colibrí* module in meal preparation?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Medical Officer Mendoza, when was the last bi-weekly health assessment conducted per standard protocol?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How did MASA’s founding vision emphasize both independence and global integration in space exploration?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "Has there been any unexpected wildlife behavior observed in the vicinity of the launch pad during the last three missions?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "Can you explain the narrative purpose behind the mission patches beyond their decorative function?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Per the complete systems overview, why was 408 kilometers chosen as Kuntur Station’s orbital altitude?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "When was MASA founded, where is its headquarters, and what is its flagship achievement?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What is the role of Pavel Kozlov as primary atmospheric systems officer under the atmospheric emergency protocols?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "I need to log an alert — Vicuña radiation sensors are reading 2.1 mSv/hr, and Commander Reyes just reported solar activity is picking up. What emergency steps should we take?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "How many modules make up Kuntur Station, and what are their respective functions?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Which module served as the central command hub during station operations?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Which module handles navigation and long-range communications?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What is the nominal voltage range defined in the system failure response protocols for MASA-SEC-018?",
+    "doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What’s the operational frequency of the phased array system, and how does it differ from the primary S-band?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What types of communication does MASA provide for crew members to stay in contact with their families on Earth?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "Can you confirm the oxygen percentage that triggers a low-severity alert in the life support system?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "How does the MASA-OPS-015 drill differ from the routine MASA-OPS-001 procedure?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "The atmospheric emergency protocols mention a tiered response framework — what severity levels are defined and how do they differ?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Can you confirm the names of the specialists typically assigned to oversee Vicuña module operations?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What was the rationale behind the lean crew composition for this mission?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "What specific maintenance protocols has Kai Nakamura's research informed for station components?",
+    "doc_id": "MASA-DOC-032",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "How does the system respond to minor leaks to prevent inward contamination?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Can you list the types of platforms MASA uses for public communication?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What is the redundancy configuration of the power distribution system in case of a single-point failure?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "I need to log an alert — Quetzal's temperature is rising at 2.5 degrees per minute. What emergency procedure should we follow for this scenario?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Hull stress readings in Quetzal have hit 91.6% — Kai Nakamura reports possible micrometeorite impact. What emergency steps do we take?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Which module was designed to house the life support systems, and which country led its construction?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "Can you describe an instance where Commander Reyes demonstrated his capabilities in high-stakes environments?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Which protocol does Systems Engineer Pavel Kozlov need to demonstrate proficiency in during the drills?",
+    "doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "What are the three major joint research initiatives conducted on Kuntur Station under the inter-agency cooperation framework?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Are there any additional safety protocols besides MASA-SEC-001 and MASA-SEC-002 that apply to station habitability?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "What is the role of the ECLSS in managing airflow paths during normal operations?",
+    "doc_id": "MASA-DOC-017"
+  },
+  {
+    "query": "Where are consumables like food and water stored in the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Which MASA operations protocol governs the crew shift handoff procedures observed during this mission?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "What’s the primary cause of orbital decay that requires station-keeping?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "Which procedure from MASA-OPS-003 was critical for the docking operation?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "How many series-connected panels are there in each string of the solar panel arrays?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Where do MASA astronauts train under the personnel exchange programs — which specific facilities are mentioned?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "What role does MASA play in coordinating the efforts of national space agencies across the continent?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What types of camera systems are available on Kuntur Station for capturing atmospheric phenomena?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What is the specific altitude of Kuntur Station’s orbit as mentioned in the regulations?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Radiation sensors in Vicuña are reading 2.4 mSv/hr and climbing—Commander Reyes just reported it. What emergency steps do we initiate for this scenario?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "When did the Cóndor-2 mission officially conclude?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "Which cultural holidays are celebrated aboard Kuntur Station, and how are they adapted for the space environment?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Can you confirm the duration of each medical examination session and the key health aspects assessed?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "How does the program ensure that trainees are adaptable to the emotional demands of long-duration missions?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Which mission patches have included representations of the Quetzal or Jaguar modules?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What is the primary function of the Vicuña module on Kuntur Station?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the typical altitude of Kuntur Station's orbit?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Can you confirm if the MASA-OPS-015 drill includes simulations for module-specific emergencies in Cóndor?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Which languages are used in MASA's public updates and educational materials?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "What is the voltage level at which the primary power distribution system operates?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Tucán radiation sensors are showing 3.9 mSv/hr and rising—what emergency response should we initiate? Commander Reyes reports the crew is sheltering in place.",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Can you summarize the key physiological challenges faced by astronauts on Kuntur Station?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-055"
+  },
+  {
+    "query": "What measures are taken to prevent desiccation of food supplies in Vicuña?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Tucán hull stress sensors are reading 90.5%—Engineer Kozlov reports possible micrometeorite impact. What emergency steps should we take?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What was the severity level of the alert when the Jaguar module's temperature first began to rise?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Tucán hull stress sensors are reading 89.1%—what emergency procedure covers this kind of structural anomaly?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "During the initial phase, which two modules were named after birds symbolizing cultural heritage from Mesoamerica and the Andes?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "How many high-gain S-band antennas are installed on the Colibrí module, and what are their primary functions?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Commander Alvez wants to know the exact parameters for temperature, pressure, and oxygen levels in Jaguar for a system check",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What are the minimum and maximum oxygen levels that Jaguar should maintain for crew safety and why?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "How does the Cóndor module ensure thermal management for both crew and electronics?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What environmental thresholds are monitored in real time within the Colibrí module?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "According to the system failure protocols, what triggers MASA-SEC-006 for power grid critical failure?",
+    "doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What is the normal operating temperature range for the Quetzal module during scientific experiments?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "How does Al-Hassan’s background in closed-loop ecosystems benefit the biological experiments on Kuntur Station?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What was the significance of the Cóndor-3 mission in terms of Kuntur Station’s operational transition?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What systems are evaluated for coolant levels and radiator performance during MASA-OPS-002?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What is the HECP project, which agencies participate, and what high-energy cosmic phenomena does it study?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What are the primary physical selection criteria that candidates must meet to qualify for the astronaut training program?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Which module provides navigational support and communication relay during docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What is the role of Commander Santiago Reyes during the execution of MASA-OPS-015?",
+    "doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "Are there any crew actions required beyond the automated response during a radiation lockdown?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "What is Science Specialist Nakamura's age and how might it relate to his mission experience?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What training do crew members undergo to ensure their photographic techniques meet scientific standards?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What is the nationality and age of the current medical officer aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Can you confirm the slew rate capability of the gimbal system on Colibrí’s antenna array?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What was Kai Nakamura's previous orbital mission before joining Kuntur Station?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "Can you provide the full name and nationality of the Pilot managing the Colibrí module?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Can you verify if the Vicuña module supports both automated and manual docking operations?",
+    "doc_id": "MASA-DOC-005",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What protocol is activated if oxygen levels deviate from expected parameters?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Is the phased array system on Colibrí capable of electronic beam steering, and if so, what’s its maximum steering angle?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What is the total duration allocated for each MASA-OPS-015 Emergency Drill session?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "The crew is asking about the original purpose of the Colibrí module—can you provide details on its microgravity experiments role?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Per the atmospheric emergency protocols, at what oxygen concentration does MASA-SEC-010 activate versus MASA-SEC-002?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Which procedure is triggered if pressure differentials exceed the significant threshold?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Are crew members required to respond to emergencies in modules other than their primary assignment?",
+    "doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "What is the role of Engineer Pavel Kozlov and which module is he assigned to?",
+    "doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Vicuña temperature rate just spiked to 3.5 degrees per minute and still climbing—how should we respond to this?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What specific parameters are monitored in the life support system check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Hull stress sensors in Colibrí are showing 90.9% and rising — what emergency procedure do we initiate for this?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Who were the crew members involved in the Cóndor-5 mission?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "How does the condor’s role in *Hanan Pacha* align with the station’s orbital mission?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Which modules on Kuntur Station have observation windows that can be used for photography?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What is the CO2 concentration threshold that triggers MASA-SEC-009 under the atmospheric emergency protocols?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Which modules on Kuntur Station are required to follow the uniform regulations outlined by MASA?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "How does the weekly maintenance procedure help prevent oxygen depletion scenarios?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "How does the crew's physical fitness program integrate with their medical examination schedule?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "I need to log an alert — Colibrí's temperature is rising at 4.1 degrees per minute. What emergency procedure should we follow for this?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What is the significance of the altitude of Kuntur Station in the context of the mission patch imagery?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What long-term environmental trends have been identified through consultations with the Wayuu communities?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What is the design purpose of the Vicuña docking port?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the normal airflow velocity through the primary ducts in the Kuntur Station ventilation system?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Which ground stations form the shared communication network, and what are their locations?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "The system failure response protocols define MASA-SEC-015 for water recycling — what output threshold and duration trigger it?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "How frequently are orbital adjustments usually required?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How long does the Daily System Health Check typically take to complete?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "What specific scientific research is supported by Nakamura's expertise in the Quetzal module?",
+    "doc_id": "MASA-DOC-032",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Radiation sensors in Vicuña are reading 2.1 mSv/hr and climbing; what emergency procedure do we initiate for this scenario?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What happens if there is a pressure deviation during the docking sequence?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "Are there redundancy measures in place for Quetzal's environmental control systems?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What types of supplies were included in the 2.4 tonnes of cargo?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "The atmospheric protocols reference testing at the Alto Atacama Simulation Facility — what thresholds were established there?",
+    "doc_id": "MASA-DOC-007",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "We’ve got a report of uneven heating in Cabin 3—what’s the standard temperature range we should be maintaining?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Pavel's reporting increased crew activity in the Cóndor module - what's the expected impact on temperature?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Commander Alvez reports the backup CO2 scrubber just activated. What's the failover threshold that would trigger this?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Cóndor's temperature is rising at 4.6 degrees per minute—what emergency procedure covers this kind of thermal event?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Kai just reported a rapid temperature rise in Colibrí—sensors are showing 4.8 degrees per minute and climbing. What emergency steps should we initiate right now?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Can you explain the redundancy in the ventilation system's star topology centered on Cóndor?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "The plant growth study team wants to know if they can adjust the temperature outside the standard range—what’s the protocol?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What was the maximum temperature recorded in the Jaguar module before the emergency response was triggered?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which protocol ensures 24-hour operational coverage for the Cóndor-7 mission?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What specific challenges did MASA aim to address by consolidating regional space efforts?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "How did MASA’s creation reflect the continent’s cultural heritage while embracing future space exploration?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "What is the significance of Al-Hassan’s role in maintaining experimental integrity during unexpected system failures?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What protocol was triggered by the pressure differential of 3.2 kPa?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "We’ve got a medium-severity humidity alert—what range would that correspond to?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "We're seeing fluctuations in the thermal readings - what's the typical orbital pattern causing these?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "We need to verify the oxygen level range that the Tucán module is supposed to maintain for safe operation",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Who was responsible for the Colibrí module during the Cóndor-6 mission, and what was their primary role?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "When did the Cóndor-1 mission officially conclude, and what was the final status?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "How does the success of Cóndor-5 impact the operational continuity of Kuntur Station?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "How does the minor pressure differential compare to acceptable limits?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "We need to verify the redundancy architecture for the water recycling system. Is it also part of the dual-channel setup?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "In what scenarios would Valdivia's expertise in life support systems integration be most critical?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "What role do environmental agencies play in the independent verification of MASA's launch site data?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What role does the Bogotá ground station play in the shared ground station network?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "What is the purpose of the external docking port on the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Who is the primary pilot responsible for overseeing the docking sequence from the Colibrí module?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Which module is designated as the primary medical hub for crew health examinations?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "Can you confirm whether the Quetzal module’s environmental control system handles humidity adjustments automatically?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Can you provide details on how MASA's propulsion technologies compare to early 21st-century rockets in terms of emissions?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-053"
+  },
+  {
+    "query": "Who is responsible for executing the weekly preventive maintenance protocol on the station?",
+    "doc_id": "MASA-DOC-019"
+  },
+  {
+    "query": "What specific action did Engineer Kozlov take when the temperature reached medium-severity alert?",
+    "doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "How many lithium-ion battery cells are there in total, and how are they arranged?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which protocol should be initiated in the event of a sudden pressure loss in the Jaguar module?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Vicuña hull stress sensors are reading 93.6%—Commander Reyes reports a potential micrometeorite impact. What emergency procedure should we initiate?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Pilot Valdivia reports signal strength below optimal—what’s the threshold that triggers automatic switching to the redundant antenna?",
+    "doc_id": "MASA-DOC-016",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What is the name of the educational program that provides free lesson plans to teachers?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "We need to cross-check the manufacturing locations—was the Cóndor module built in Argentina or Peru?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Are there any exceptions to the bi-weekly frequency of the emergency drills?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "Who were the two crew members responsible for executing the emergency thermal repair on the Jaguar module?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Under the atmospheric emergency protocols, what is the high-alert pressure band that triggers MASA-SEC-011?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What kind of imaging systems are available in the fluid dynamics workstations?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "How does Al-Hassan’s work in the Quetzal module impact the overall life support systems of Kuntur Station?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which module serves as the central mixing chamber for atmospheric redistribution?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What systems are integrated into the Cóndor module to support continuous operational readiness?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "How does the MASA-SEC-006 protocol impact the commander's coordination during a power grid failure?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "How has the astronaut training program evolved since MASA’s founding in 2028 to address Kuntur Station’s unique challenges?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "What technical systems does Commander Reyes oversee to maintain station functionality?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Jaguar hull stress sensors are reading 90.1%—Kai Nakamura noticed it on his console. Should we escalate this up the chain?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Which docking port was used for the automated supply vessel?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the maximum data transmission rate for the X-band antennas on Colibrí module?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Can you confirm the operational pressure thresholds for the Colibrí module to maintain structural integrity?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "How does Commander Reyes integrate the station's modules to ensure seamless operations?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Why is the 240-minute duration considered optimal for the weekly maintenance procedure?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What are the primary tasks that initiate an EVA procedure under MASA-OPS-004?",
+    "doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "What is the normal temperature range for the Colibrí module to ensure optimal antenna performance?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "How does the lack of gravity impact blood distribution in the body?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "How are the medical systems in the Tucán module integrated with station-wide life support?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What is the oxygen concentration range that the Jaguar module maintains under normal conditions?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Which control node within the Cóndor module handles orbital mechanics and attitude control?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Which protocol governs the daily system health checks for the Cóndor-7 mission?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Which city serves as the headquarters for MASA's operations?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "We've got a temperature reading of 28.3°C in Quetzal—should we be concerned about the experiments?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "At what temperature does the Vicuña module trigger a critical emergency alert?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What is Science Specialist Kai Nakamura's current module assignment on Kuntur Station?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What operational protocols is Commander Reyes responsible for ensuring compliance with?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What components of the power system are inspected during the Daily System Health Check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "We’re preparing for a new crew rotation—how many individual cabins does the Tucán module have?",
+    "doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What was the primary objective of the Cóndor-4 mission, and which module was affected?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Under the system failure protocols, what voltage fluctuation percentage triggers MASA-SEC-018?",
+    "doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What is the role of MASA-OPS-009 in relation to the Quetzal module's research activities?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Is Lucía Mendoza the only medical officer currently aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What was the launch date of the Cóndor-6 mission, and how many days did it last?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Who is the primary crew member responsible for overseeing communication protocols in the Colibrí module?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "Can you confirm the duration of Kai Nakamura's previous orbital research mission?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What specific life support systems is Kozlov responsible for monitoring on Kuntur Station?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What is the frequency band used by the long-range antenna array in the Colibrí module?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "The system failure response protocols describe MASA-SEC-007 for communication blackout — how many minutes of lost contact trigger activation?",
+    "doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "We’ve lost all ground contact through Colibrí—blackout now at 57 minutes and counting. What emergency steps do we initiate for this kind of communications failure?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What is the name of the space station mentioned in the educational outreach programs?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "How many external docking ports does the Vicuña module have, and what redundancy features do they include?",
+    "doc_id": "MASA-DOC-005",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What virtual reality experiences are available to crew members as part of the digital entertainment options?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "What ground station in Bogotá, Colombia does the systems overview identify as MASA’s primary communication hub?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "What role does the Vicuña module play in the distribution of supplies to other modules?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is Fatima Al-Hassan's nationality and how does her cultural background influence her work on Kuntur Station?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "What is Commander Reyes' role in coordinating with MASA ground control?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "What factors influence the station’s orbital plane inclination?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "How often is the Daily System Health Check conducted?",
+    "doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "How many specialists were part of the Cóndor-6 crew, and what were their cross-trained responsibilities?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Commander Reyes, we need to know your shift partner for station-wide oversight during Cóndor-",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "What was the peak temperature recorded in the Jaguar module before the emergency repair mission was initiated?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which section of Vicuña houses scientific equipment and experiment materials?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "We're reviewing the manufacturing timeline—were the Vicuña and Tucán modules completed before the end of 2029?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "Medical Officer Lucía Mendoza just reported crew vitals in Tucán showing distress—what emergency procedure do we initiate?",
+    "doc_id": "MASA-DOC-012",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How does Mendoza’s background in emergency surgery benefit the crew during high-altitude operations?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Which crew member is responsible for orbital adjustments and docking procedures?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "What regions are currently prioritized for repeated observations due to their environmental significance?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-058"
+  },
+  {
+    "query": "Can you tell us which module was inspired by an Andean bird and served as the station's command center?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Which specific bones are most affected by bone density loss in microgravity?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "What specific exhaust byproducts are being monitored for their impact on the upper troposphere and lower stratosphere?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What are the primary modules used by the Cóndor-7 crew for exercise routines?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "How many MPPT controllers are operational in the solar panel arrays?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What is the duration of backup power provided by the battery bank during eclipse periods?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Who is responsible for overseeing the technical readiness of the Jaguar module’s airlock?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Why is the radiation threshold set at 5.0 mSv/hour—what’s the health impact above that level?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which module serves as the central hub for station-wide monitoring and telemetry processing?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Which crew roles are specifically assigned to operate within the Cóndor module?",
+    "doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What year was MASA founded according to our records?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "What’s the worst-case timeline for losing consciousness if oxygen levels fall below 14% and we don’t respond?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What is the name of the protocol that Valdivia is particularly vital for during station-wide communication failures?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Can you describe the operational rhythms Valdivia is familiar with from her Cóndor mission experience?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What was the specific role of Pilot Ana Valdivia during the antenna deployment phase?",
+    "doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "Can you confirm the caloric intake requirements for crew members during extravehicular operations?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Can you confirm if the Jaguar module has any crew workstations or if it's purely for life support operations?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What modifications are made to traditional cooking methods in the galley?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What was the nationality of Engineer Pavel Kozlov, and which module was he assigned to?",
+    "doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What distinguishes the Quetzal module from the Jaguar module in terms of functionality?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "Why does MASA emphasize the fusion of technology and cultural pride in the station’s naming?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "How frequently does MASA consult with the Wayuu communities regarding environmental trends around the launch site?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "We’re reviewing emergency protocols—at what radiation level does the module trigger a station-wide alert?",
+    "doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "A crew member is experiencing static shocks in their cabin—what’s the lower humidity limit we should check?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "At what temperature threshold would MASA-SEC-003 have been activated during this incident?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "What was the duration of her previous mission on Cóndor-6, and what were her key responsibilities?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What corrective actions does MASA-SEC-010 require before potential evacuation according to the atmospheric protocols?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What is the rated capacity threshold that triggers MASA-SEC-006 according to the system failure response protocols?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Where was Pavel Kozlov born, and how did his upbringing influence his career in space engineering?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "Per the system failure protocols, what is the minimum water recycling output before MASA-SEC-015 activates?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What is the maximum crew capacity of the Vicuña module during active cargo operations?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the primary research focus of the Quetzal module, and how does Al-Hassan contribute to it?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What are the consequences of temperature fluctuations outside the normal range in the Colibrí module?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "How many years of experience does Al-Hassan have in biology and environmental systems?",
+    "doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "Which module is responsible for controlling the motorized dampers in the ventilation system?",
+    "doc_id": "MASA-DOC-017"
+  },
+  {
+    "query": "What are Commander Reyes' key responsibilities during crew rotations?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What was the primary objective of the Cóndor-6 mission besides the crew rotation?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What is the purpose of the slight positive pressure gradient maintained from Cóndor outward?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which phase of the training program includes emergency protocols and microgravity adaptation exercises?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "The secondary oxygen system is active—what’s the minimum oxygen level we should expect before stabilization?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What’s the maximum temperature before we risk compromising the protein crystallization experiments?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which exercise equipment is available in the Jaguar module to combat microgravity effects?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What was the primary objective of the Cóndor-2 mission according to the manifest?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "How does Kai Nakamura's materials science background contribute to station maintenance?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "Airlock equalization rate in Vicuña is now at 0.6 kPa per minute and rising—what emergency procedure should we initiate for this scenario?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Who is the Medical Officer on board and which module are they operating from?",
+    "doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Why was the 408 km altitude specifically chosen for Kuntur Station’s deployment?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Does the Vicuña module house perishable scientific samples, and if so, how are they protected?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "If the crew reports dizziness and oxygen reads 16.5%, what’s the next action we should take?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Can you provide details on Mendoza’s role in developing in-flight medical diagnostics?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Can you confirm the exact orbital inclination angle of the station?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What is the role of the Cóndor command center in a medical emergency?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Under what authority was the current regulatory framework for the Cóndor-7 mission established?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Can you confirm the year MASA was officially founded and where its headquarters is located?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "What is the role of the Colibrí module in Kuntur Station's operations?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Can you confirm the exact start and end dates of the Cóndor-3 mission for log synchronization?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "How often are meals scheduled to maintain balanced nutrition throughout the day?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "How often does the system complete a full atmospheric circulation under standard conditions?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "How does the station accommodate the diverse cultural backgrounds of crew members in its entertainment and celebration programs?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-055"
+  },
+  {
+    "query": "What is Commander Reyes' nationality and how does his background influence his role on Kuntur Station?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "The crew wants to temporarily suspend an experiment due to a humidity alert—what’s the threshold for that?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What makes Commander Reyes a cornerstone of Kuntur Station's command structure?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What role does the Quetzal module play in team-building activities aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Are there any cultural considerations taken into account when planning meals?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-056"
+  },
+  {
+    "query": "Which module hosts physical fitness group activities, and what types of exercises do crew members do together?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "The team wants to know which module was designed for scientific research and which country contributed to its development",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "Can you explain the automated alert system for environmental deviations in the Colibrí module?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Which crew member is responsible for overseeing and evaluating the performance during the emergency drills?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "What are the two main operational frameworks under which the Cóndor-7 mission operates?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What is the standard duration for a typical EVA operation from Kuntur Station?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "We've got a temperature reading of 26.5°C in the Cóndor module - should we be concerned?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What's the altitude of Kuntur Station and how does it affect the thermal management system?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "How often is the MASA-OPS-002 procedure conducted, and what is its primary objective?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "How many primary control nodes are part of the command architecture in the Cóndor module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Can you confirm the names of all six modules connected by the primary duct network?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Were there any incidents during the cargo transfer process?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Which module serves as the primary docking interface for supply vessels?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "During which mission did Pavel Kozlov successfully mitigate a CO2 scrubber failure?",
+    "doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "Tucán radiation sensors are showing 3.9 mSv/hr and rising—Commander Reyes wants this logged as an alert immediately. Solar activity reports suggest this could worsen.",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How does the cardiovascular system adapt to the absence of gravity?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "How did the crew resolve the minor pressure differential during docking?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "What is the primary objective of the bi-weekly emergency drill schedule mentioned in the procedures?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What types of sensitive materials are commonly stored in the Vicuña module?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Which team members are involved in designing the dietary plans for the station?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Pavel's conducting the daily health check - what procedure covers the Thermal Management System review?",
+    "doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What was the initial cause suspected for the temperature rise in the Jaguar module before it escalated?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "How many crew members is Lucía Mendoza responsible for providing medical oversight to?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "The commander is asking about the design purpose of the Tucán module—can you summarize its primary functions?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What countermeasures are implemented to prevent muscle atrophy during long-duration missions?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "How long did the entire Cóndor-4 emergency repair mission last, and what was the outcome?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "Where is the primary cargo bay and storage facility for Kuntur Station located?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What was the exact duration of the crew overlap period during the Cóndor-6 mission transition?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Engineer Silva is reporting unusual temperature readings. Should we expect any automatic system response if it hits 23.1°C?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What are the key environmental considerations that led to the selection of the Guajira Peninsula for MASA's primary launch site?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "Can you confirm Commander Reyes' age and his primary area of specialization?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "What's the purpose of the passive radiators in the Thermal Management System?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Can you confirm whether the emergency oxygen comes from Jaguar or another module during a depletion event?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What was the exact duration of the Cóndor-1 mission from start to finish?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Can you confirm the primary symbolic bird featured in the Cóndor mission patches and its cultural significance?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What is the expected response when pressure differentials exceed the significant threshold in the ventilation system?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How do crew members share traditions from their home countries during cultural celebrations on the station?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "During orbital adjustments, how does the phased array system assist with communication stability?",
+    "doc_id": "MASA-DOC-016",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "We’ve got a rapid temperature rise in Vicuña—sensors are showing 4.4 degrees per minute and climbing. What emergency procedure should we initiate for this scenario?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What’s the first step in MASA-OPS-010 if oxygen drops below 18%?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "How many crew members were part of the Cóndor-3 mission, and what was the breakdown of their nationalities?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "How many temperature sensors are monitoring the Cóndor module's environment?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which crew member was assigned to the Colibrí module, and what was their primary function?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Can you confirm the nationalities represented in Kai Nakamura's background?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "When did the Cóndor-7 mission commence according to the inter-agency cooperation framework document?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What is the intended tone of MASA's public communications?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Cóndor hull stress sensors just hit 92.1%—Commander Reyes reports a potential micrometeorite impact. What emergency procedure should we initiate?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Can you confirm if the crew in the Quetzal module is trained to prioritize observation targets for climate research?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "We’re seeing humidity at 35% in Quetzal—does this require immediate action or just monitoring?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "The combustion study team reported condensation on their optical equipment—what’s the likely cause?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which protocol is activated in case of a medical emergency, and who leads the response?",
+    "doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Why did MASA choose to name the station’s modules after Andean and Mesoamerican fauna?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "Which module was designated as the primary hub for command and control operations during Kuntur Station's initial design phase?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What are the five primary systems evaluated during the Daily System Health Check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "What is the designated day and duration for the Kuntur Station's scheduled preventive maintenance procedure?",
+    "doc_id": "MASA-DOC-019"
+  },
+  {
+    "query": "What was the background of Fatima Al-Hassan, and how did it contribute to the mission?",
+    "doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "Can you confirm if Kozlov has any prior experience with water recycling systems in space?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What are the risks if life support filter integrity is not verified during scheduled maintenance?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "Which program is designed to bring MASA's mission into classrooms across Latin America?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "Can you confirm Ana Valdivia's fluency in languages other than English and how that aids crew communication?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "Can you confirm the start date of the Cóndor-7 mission as referenced in the regulations?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What type of surgical procedures is Mendoza trained to perform in a microgravity environment?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "What could a notable drop in solar array output indicate?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "What type of life support systems are integrated into the Colibrí module?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What specific collaborative research does JAXA conduct with MASA, and which project is it part of?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What type of supplies require the most stringent environmental parameters in Vicuña?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Tucán temperature sensors showing a rise of 2.4 degrees per minute and climbing—what emergency procedure do we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Which modules house the airlock systems and external tooling required for EVA operations?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Why is it critical to ensure battery storage is functional during the health check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What systems must be verified in the life support checks before an EVA begins?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "Can you confirm the airflow topology of the ventilation system and how the modules are interconnected?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "What is the maximum crew capacity of the Cóndor module during normal operations?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "Cóndor hull stress sensors are reading 85.8% and climbing—Reyes just confirmed possible micrometeorite impact. Do we flag this for immediate review?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What are the key responsibilities of the Station Management control node in the Cóndor module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What kind of anomalies has Al-Hassan encountered in her past missions, and how did she resolve them?",
+    "doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "What is the central command hub for the Cóndor-7 mission and who is the Commander?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "The atmospheric emergency protocols define a critical pressure threshold of 85.0 kPa — what physiological effects justify this value?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What was the date of the Cóndor-5 mission commencement?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Radiation sensors in Colibrí are reading 3.7 mSv/hr and rising—should we escalate this to command?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Pavel reported a slight temperature deviation in the command hub - what's the threshold for a low-severity alert?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Vicuña hull stress sensors are reading 91.4%—Commander Reyes just reported a possible micrometeorite impact. What emergency procedure should we initiate?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "How many years of professional experience does Kai Nakamura have in astrophysics?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "Which protocol governs the execution of scientific experiments in the Quetzal module?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What is the nominal storage capacity of the lithium-ion battery bank on Kuntur Station?",
+    "doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Can you confirm the names of the two modules responsible for crew living quarters and logistics support?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What is the humidity range that prevents mold growth in food supplies?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "The system failure protocols specify load shedding as a required action for MASA-SEC-006 — what systems receive priority power?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "What role does the medical officer, Lucía Mendoza, play in the pre-EVA phase?",
+    "doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "Which subsystem is responsible for stepping down the primary voltage for other station modules?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Can you verify if the Vicuña module has been assigned any celestial event documentation tasks?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "How does the Quetzal module ensure stable environmental conditions for biological studies?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Which countries were primarily involved in the early satellite programs that laid the foundation for MASA?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What is the focus of Pilot Ana Valdivia’s medical examinations given her duties in the Colibrí module?",
+    "doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "What is the role of Specialist Kai Nakamura and which module are they assigned to?",
+    "doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "The system shows a pressure of 98 kPa—is this within nominal operating range or should we investigate?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "I need to confirm the cultural resonance of the fauna-based naming convention for the modules",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "What makes Valdivia's expertise in communications systems crucial for maintaining contact with ground stations?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Commander Reyes, who shared primary responsibility with you for station-wide oversight?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "Hull stress sensors in Quetzal are showing 91.5% and rising — what emergency procedure do we initiate for this scenario?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Systems Engineer Kozlov, which module were you primarily responsible for during the mission?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "Can you verify if Research Specialist Kai Nakamura is currently assigned to the Quetzal module?",
+    "doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What traditional foods from Latin American holidays are adapted for consumption in microgravity aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What collaborative problem-solving activities does the crew engage in during team-building sessions?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What’s the acceptable pressure range in the navigation module?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "How many orbital adjustment maneuvers were performed during the automated sequence?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What was the focus of her experiments during the Cóndor-6 mission?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What is the response time for the solid-state circuit breakers to interrupt fault currents?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "How do the mounted camera systems differ from handheld devices in terms of photographic capabilities?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Commander Reyes is reporting a pressure drop to 92 kPa—what’s the appropriate response protocol?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What is the normal operating temperature range for the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What role does the Colibrí module play in the docking procedure?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What is the maximum power output capability of each independent solar panel array?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What is the primary focus of the initial phase of the MASA Astronaut Training Program?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "What is the purpose of the pressure hold test conducted after docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What specific checks are performed on the life support systems during the weekly maintenance?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What role did Engineer Pavel Kozlov play in the mission?",
+    "doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "Can you outline the collaborative framework MASA established with existing national space agencies?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What are the long-term implications of bone density loss for astronauts returning to Earth?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "What are the airflow patterns designed to prevent within each module?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Which module's cosmic radiation studies benefit from Kai Nakamura's astrophysics specialization?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What is the expected outcome of the 120-minute duration for each emergency drill session?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "Could you verify Kai Nakamura's educational background in both Brazil and Japan?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "According to the systems overview, what procedure governs the regular communication windows with Bogotá ground station?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Can you verify if the medical officer has experience with telemedicine consultations during space missions?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "The life support system just adjusted humidity to 65%—is this within normal operating limits?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What was the driving vision behind the creation of MASA in terms of regional collaboration?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "How often does the Thermal Management System transmit telemetry data to ground control?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What is the current altitude of Kuntur Station and how often are orbital adjustments required?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "How many years of experience does Pavel Kozlov have in mechanical systems and life support engineering?",
+    "doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "What are the consequences of elevated CO2 levels on the crew?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What’s the pressure threshold that would initiate a medium-severity alert for the distribution network?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Tucán temperature sensors showing a rise of 2.7 degrees per minute and climbing — what emergency procedure do we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Which module serves as the heart of cultural festivities on Kuntur Station, and what celebrations take place there?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "If the temperature hits 35.1°C, what’s the first step the research specialists should take?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which protocol governs the routine system health checks where the thermal instability was first noticed?",
+    "doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "At what altitude was Kuntur Station successfully deployed during the Initial Orbital Insertion?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Which MASA operational procedure governs docking and undocking for the Vicuña module?",
+    "doc_id": "MASA-DOC-005",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "Which specific environmental systems are managed by the Cóndor module to maintain operational conditions?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-017"
+  },
+  {
+    "query": "What was the total mass of supplies transferred during this mission?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "I’ve got a media inquiry—what’s the deeper significance of the condor in indigenous South American cultures?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "Could you list the key areas where Kai Nakamura's dual expertise in astrophysics and materials science is applied?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What are the potential Earth-based applications of microgravity research on muscle atrophy?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "One of the crew reported feeling cold in their cabin—what’s the minimum allowed temperature before we need to investigate?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "We're seeing a humidity reading of 65% in the Tucán module—should we adjust the system immediately?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What specific environmental changes are being monitored from the Jaguar module this week?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Were there any anomalies during the docking procedure, and how were they resolved?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "Is the oxygen depletion response activated immediately when we hit 14.0%, or is there a short buffer period?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Are there any recurring themes in the symbolism of the patches, such as exploration or collaboration?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "During which previous missions did Ana Valdivia gain experience with long-duration spaceflight operations?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "Who served as the backup liaison with ground control if Commander Reyes was unavailable?",
+    "doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What is the primary function of the Cóndor module aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What scientific insights have been gained from the Cóndor-7 mission regarding bone density?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Ground station reports intermittent contact—what’s the minimum signal strength the antenna array is designed to maintain?",
+    "doc_id": "MASA-DOC-016",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "Can you confirm whether the manufacturing phase for all six modules was completed by the end of 2029?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What is the current primary objective of the Cóndor-7 mission and which module is responsible for the microgravity biology experiments?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which emergency protocol could be triggered if power cell testing fails during preventive maintenance?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Oxygen readings in Vicuña are at 15.7% and still dropping—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-007",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Who is responsible for ensuring compliance with the regulatory framework across all modules?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-019"
+  },
+  {
+    "query": "What is the compliance standard for the docking interface used by the Vicuña module?",
+    "doc_id": "MASA-DOC-005",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "What is the title of the protocol that governs preventive maintenance tasks on Kuntur Station?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Radiation sensors in Quetzal just spiked to 9.8 mSv/hr—what emergency steps do we take for this scenario?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "How often are the observation windows in the Cóndor module used for monitoring deforestation in the Amazon?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What type of redundancy is implemented in the command pathways of the Cóndor module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What environmental systems are calibrated in Vicuña to maintain stability for sensitive cargo?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "How has the design tradition for mission patches evolved since the first Cóndor mission?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Can you verify the name of the medical officer and their role during a medical emergency?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Has Lucía Mendoza participated in any previous MASA missions before her current assignment?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "What is the backup plan if the docking collar alignment fails during the approach?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "Medical Officer Lucía Mendoza just reported crew vitals showing distress in Vicuña—what emergency procedure do we follow?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "Which protocol did Medical Officer Mendoza follow for conducting health assessments during the mission?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "At what altitude does Kuntur Station maintain its circular orbit?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What steps are taken to prevent system failures in the Colibrí module that could disrupt station operations?",
+    "doc_id": "MASA-DOC-004",
+    "hard_negative_doc_id": "MASA-DOC-040"
+  },
+  {
+    "query": "During an EVA, what are the designated roles of the lead and support specialists?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "Which systems are tested for voltage and capacity during the preventive maintenance checks?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "How many workstations are available in the Quetzal module, and what is their general purpose?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "We've got a reading of 54.5°C in the Cóndor module - what's the next step?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What’s the minimum pressure threshold that triggers the rapid decompression response protocol?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Did the Cóndor-1 mission encounter any unexpected issues during the pressurization phase?",
+    "doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "There’s a discrepancy in the environmental logs—what’s the exact upper limit for oxygen percentage in the module?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Why does the rapid decompression protocol only affect the module where it’s detected instead of the whole station?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What is the normal operating temperature range for the Cóndor module?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Can you clarify if the Radiation Lockdown Protocol applies to all modules or only specific ones?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "Cóndor's temperature is rising at 2.2 degrees per minute—what emergency procedure should we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "The Kuntur Station complete systems overview describes eclipse periods and solar arrays on extendable booms — what is the power continuity design?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Radiation sensors in Vicuña are reading 3.6 mSv/hr and climbing—Commander Reyes just reported it. What emergency steps should we take for this situation?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What is the operational scope of MASA-OPS-004 in terms of module involvement?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which module does Pavel Kozlov primarily oversee for environmental control systems?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What specific biological processes is Al-Hassan responsible for monitoring in the life support systems?",
+    "doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "What are the key features of the observation windows in the station that make them suitable for scientific photography?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Between 2028 and 2029, which module was being constructed in Peru for crew accommodations?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What CO2 scrubber efficiency threshold triggers MASA-SEC-014 under the system failure response protocols?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What’s the procedure initiated by Pilot Ana Valdivia when the signal strength drops below the minimum threshold?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Are there any experiments currently running that require humidity below 40%?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What are the potential consequences if the thermal systems are not properly maintained during MASA-OPS-002?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "What modules have docking ports, since we know Jaguar doesn’t have any?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "Are there any specific elements in the patch designs that represent the crew’s cultural heritage?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "What is the protocol for post-EVA debriefings according to the operational procedure?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Were all six modules of Kuntur Station functional by the end of the Cóndor-1 mission?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Ana Valdivia just reported the Quetzal airlock equalization rate is holding at 0.6 kPa per minute — what emergency procedure covers this?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What is Pavel Kozlov's nationality and how does it influence his role on Kuntur Station?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What was the critical temperature threshold that would have triggered MASA-SEC-003 during the incident?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Can you confirm the orbital altitude range for Kuntur Station during Cóndor-2?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Can you confirm whether the Oxygen Depletion Response protocol applies to the Quetzal module?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What was the first operational procedure initiated by Commander Reyes upon docking?",
+    "doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "At what oxygen level should we activate the secondary generation systems according to standard procedures?",
+    "doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What is the maximum number of simultaneous experiments the Quetzal module can support?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Were there any unplanned maintenance activities during the 182-day mission?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "How did Al-Hassan handle the environmental control anomaly during her time on Cóndor-6?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Who is the engineer responsible for the Jaguar module’s airlock during EVA preparations?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Commander Rodriguez is reporting oxygen levels dropping fast in the Koda module—what’s the exact percentage where we initiate emergency procedures?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "How does the station address variations in crew metabolism due to microgravity?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "Pilot Valdivia, which operational document outlines your communication window management procedures?",
+    "doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "What is the normal temperature range maintained in the Tucán module for crew comfort and safety?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "Which emergency protocol involves a radiation lockdown scenario during the drills?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "The crew reports fluctuating temperatures in Quetzal—what’s the acceptable stability range for biological experiments?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Can you describe the collaboration process between MASA and the artists during patch creation?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What is the name of the initiative that shares behind-the-scenes content from the space station?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "We're seeing a pressure fluctuation in Kuntur Station. What is the operational pressure range that Jaguar is supposed to maintain?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which module on Kuntur Station is typically introduced first during the theoretical training phase?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Can you confirm the primary objectives achieved during the Cóndor-3 mission, specifically regarding the Quetzal laboratory?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Which specialist is leading the Phase 3 microgravity biology experiments?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "According to the system failure protocols, what backup systems are activated when power consumption exceeds 97% capacity?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "Which module hosts the MBS program, and which agencies collaborate on biological and medical research there?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Can you confirm the deployment year of Kuntur Station and its current mission phase?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Were there any deviations from the pre-programmed sequence during the orbital insertion?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Kai just reported radiation sensors in Quetzal are reading 4.4 mSv/hr and rising—should we escalate this to command?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Who is responsible for maintaining the life support and power systems on the Jaguar module?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which workstations are designated for fluid dynamics experiments in the Quetzal module?",
+    "doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What is the scheduled start time for the Daily System Health Check procedure?",
+    "doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "How many crew members can the Jaguar module support simultaneously according to its design specifications?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "Can you explain the effects of microgravity on muscle mass, particularly in the lower body?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "A visitor asked about the spiritual symbolism of the condor in relation to the station’s purpose",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "How does Kai Nakamura's multicultural background enhance international collaboration on Kuntur Station?",
+    "doc_id": "MASA-DOC-032",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "What university did Commander Reyes attend, and how has his education prepared him for his current role?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "What emergency response protocols is Mendoza specifically trained to execute in confined spaces?",
+    "doc_id": "MASA-DOC-035"
+  },
+  {
+    "query": "Which modules were pressurized and activated during the Cóndor-1 mission?",
+    "doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What’s the purpose of the Colibrí module’s thermal management range?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How long does each crew member's medical examination last, and what does it include?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "Does the Colibrí module have any docking ports or crew cabins?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How does the training program accommodate individuals with diverse professional backgrounds, such as engineers versus medical professionals?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "Are there any simulations of microgravity dynamics included in the hands-on training phase?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "What are the designated storage zones for medical supplies in Vicuña?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "How long is the typical communication window with Quito?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What’s the role of the redundant X-band antennas, and under what conditions would they be activated?",
+    "doc_id": "MASA-DOC-016",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "Can you confirm the optimal altitude for the Quetzal module's scientific operations?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "We’re seeing a temperature spike in the lab—how many degrees per minute rise triggers the thermal runaway protocol?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Can you confirm the start date of the Cóndor-7 mission and the expected duration?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Which cultural background does Valdivia bring to the crew, and how does it enhance operational cohesion?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "How does microgravity affect the overall well-being of astronauts during extended missions?",
+    "doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "Which atmospheric emergency protocol addresses chemical contamination and what sensor triggers it?",
+    "doc_id": "MASA-DOC-007",
+    "hard_negative_doc_id": "MASA-DOC-017"
+  },
+  {
+    "query": "Under the atmospheric emergency protocols, what is the difference in scope between critical-severity and high-severity protocols?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What types of media content are available in the digital library — does it include literature, films, and music from Latin America?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How are communications tested to ensure uninterrupted links during an EVA?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What’s the physiological reason we don’t let oxygen drop below 14% before responding?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "Tucán radiation sensors are showing 1.9 mSv/hr and rising—what emergency response should we initiate? Commander Reyes reports solar activity may be increasing.",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What's the highest temperature the Cóndor module can reach before it's considered a critical emergency?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What are the initial steps of the pre-docking checklist that need to be verified?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "What symbolic significance did MASA’s founding hold for Latin America as a whole?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "Why is the Colibrí module considered pivotal for station-wide connectivity and positional accuracy?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "How many languages does MASA use to share updates and educational content?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "Can you explain the connection between the condor’s ability to soar and the station’s mission?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What’s the reasoning behind embedding Quechua language and Andean mythology into the station’s identity?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "What is the normal humidity range for the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "The atmospheric protocols describe independent life support systems per module — how does this segmented architecture affect protocol scope?",
+    "doc_id": "MASA-DOC-007",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Tucán radiation sensors are at 9.3 mSv/hr and rising—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "How does the station ensure that meals support bone density and muscle mass in microgravity?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "Cóndor hull stress sensors are reading 91.6% and climbing—Commander Reyes just reported possible micrometeorite impact. What emergency steps should we initiate?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "How often does Kuntur pass over the Quito ground station?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Who is responsible for overseeing trajectory calculations on board?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Which crew members are responsible for conducting MASA-OPS-001?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What's the redundancy class of the Jaguar module's life support systems and what does it entail?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which other modules on Kuntur Station are mentioned as having different functions compared to Vicuña?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Can you confirm whether the emergency repair mission was successful in restoring the Jaguar module to normal operations?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Was there any manual intervention required from the ground crew during the deployment phase?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "How does the station handle radiation events, and at what dose rate does it switch from module-specific to station-wide lockdown?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "When did the Cóndor-6 mission conclude, and what was the final status of the antenna upgrade?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Why does the Jaguar module have a lower critical temperature threshold compared to the Quetzal module?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "What was the focus of Mendoza’s work during the Cóndor-4 mission?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-027"
+  },
+  {
+    "query": "What is the current nominal orbital velocity for Kuntur Station?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What is the purpose of the triple-modular redundancy in the flight systems of the Cóndor module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What criteria are used to evaluate the artists chosen for creating the mission patch designs?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-053"
+  },
+  {
+    "query": "Can you summarize the symbolic weight of the quetzal module’s namesake for the press release?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "How does the exercise regimen on Kuntur Station compare to previous missions?",
+    "doc_id": "MASA-DOC-061",
+    "hard_negative_doc_id": "MASA-DOC-056"
+  },
+  {
+    "query": "What is the cultural significance behind the name *Kuntur* for the orbital station?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Are there any psychological resilience assessments included in the selection process for astronaut candidates?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "How does the Thermal Management System compensate for thermal variations during eclipse phases?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "What is the official name of the South American advanced aerospace mission headquarters location?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "How does the Colibrí module relay critical data between Kuntur Station and MASA’s ground control centers?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What are the key phases of EVA operations as outlined in the procedure?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-009"
+  },
+  {
+    "query": "How does the long-range antenna array in the Colibrí module handle high solar activity or orbital interference?",
+    "doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What are the primary environmental factors considered in the regulatory framework for LEO operations?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "What types of beverages are available to help crew members stay hydrated?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Can you confirm the pre-deployment checks required for structural integrity before an EVA?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "What are the primary functions of the Quetzal module where Kai Nakamura is currently assigned?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What is the name of the commander who provides oversight from the Cóndor command center during docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Can you confirm Pavel Kozlov's age and the number of previous Cóndor missions he has participated in?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "During the manufacturing phase, which country was responsible for the assembly of the Jaguar module?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What is the maximum temperature before a low-severity alert is triggered in Vicuña?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "How many crew members were assigned to the Cóndor-2 mission, and what were their roles?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-028"
+  },
+  {
+    "query": "What theoretical subjects are covered in the foundational knowledge phase of the training program?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "What was the total duration of the Cóndor-5 mission?",
+    "doc_id": "MASA-DOC-027",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Which module-specific protocol must Pavel Kozlov be proficient in for Jaguar module operations?",
+    "doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "How does the ventilation system handle contamination events in one module?",
+    "doc_id": "MASA-DOC-017"
+  },
+  {
+    "query": "Are there any recent reports from local universities involved in verifying the launch site's soil quality data?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Who handled life support systems in the Jaguar module, and what’s their full name?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Radiation sensors in Vicuña are reading 10.4 mSv/hr—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Tucán temperature sensors showing a rapid rise of 3.7 degrees per minute—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What's the role of the redundant heating elements in the Thermal Management System?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "How do shared meals aboard Kuntur Station celebrate the crew members home countries and cultural heritage?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "How many years of aerospace experience does Commander Reyes have, and what is his specific expertise?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Can you confirm the age of Science Specialist Fatima Al-Hassan and her role in the Quetzal module?",
+    "doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "Which two crew members were assigned to the Quetzal module, and what were their specialties?",
+    "doc_id": "MASA-DOC-028",
+    "hard_negative_doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "Biological contamination alarm just triggered in Quetzal—readings are showing contamination reported. What emergency response should we initiate?",
+    "doc_id": "MASA-DOC-012",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Can you confirm the module where Medical Officer Mendoza conducts her primary operations?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Which MASA protocols does Lucía Mendoza have the authority to activate during a medical emergency?",
+    "doc_id": "MASA-DOC-035",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What’s the maximum oxygen concentration allowed before flammability becomes a concern?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Can you summarize the key components of the Carbon Offset Program mentioned in the environmental strategy?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "Which protocols are triggered if there are anomalies in structural or communication systems during docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "According to the Kuntur Station complete systems overview, what year was the station deployed and when did Cóndor-7 commence?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "How does Commander Reyes' systems engineering background contribute to managing station emergencies?",
+    "doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Are there any ongoing collaborations between the Tucán module and ground-based scientists for Earth observation?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What research areas does the ADCO project focus on in the Quetzal module — ozone, aerosols, or solar radiation?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "If oxygen levels reach 17%, should we start diagnostic checks immediately or wait for further decline?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Can you remind me why the *Cóndor* module is considered the heart of Kuntur Station?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "What is the main goal of MASA's educational outreach in Latin America?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-050"
+  },
+  {
+    "query": "Who are the current crew members, and how are their medical examinations tailored to their roles?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-035"
+  },
+  {
+    "query": "The system failure response protocols describe MASA-SEC-017 for airlock failures — what equalization rate triggers it?",
+    "doc_id": "MASA-DOC-010"
+  },
+  {
+    "query": "In what ways does Commander Reyes maintain crew safety and operational excellence on Kuntur Station?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Can you confirm the names of all six modules on Kuntur Station that trainees must study during their foundational phase?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "During the cultural briefing, what’s the symbolic meaning of the quetzal bird in Mesoamerican traditions?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-060"
+  },
+  {
+    "query": "How does the design process for the Cóndor mission patches reflect the unique goals of each crew?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "How does MASA ensure transparency in its environmental monitoring efforts, particularly with regard to exhaust byproduct dispersal?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "We’ve got a rapid temperature rise in Quetzal—2.4 degrees per minute and climbing. Kai just reported it—what emergency steps do we take?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What backup systems are in place if the primary food preparation equipment fails?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Commander Silva wants to know: once a rapid decompression is detected, how quickly do we need to seal the hatches?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "How often are crew members required to perform the Daily System Health Check procedure?",
+    "doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "What monitoring transfer procedure does the atmospheric emergency protocol define for off-shift periods?",
+    "doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "How is the relative velocity of the supply vessel maintained during the final approach phase?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What specific evaluations does Engineer Pavel Kozlov undergo due to his role in the Jaguar module?",
+    "doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "What is the purpose of MASA-OPS-012, and how often is it conducted?",
+    "doc_id": "MASA-DOC-042"
+  },
+  {
+    "query": "Tucán temperature sensors are showing a rapid rise at 2.6 degrees per minute and still climbing—what emergency procedure should we initiate for this scenario?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What university did Ana Valdivia attend for her advanced studies in orbital mechanics?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "What is the duration of the Daily System Health Check procedure?",
+    "doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "How did MASA intend to amplify the impact of South American contributions to global space exploration?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "The medical officer wants to know the maximum normal radiation exposure level in the module before taking action",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "What is Pavel Kozlov's educational background, and how did it prepare him for his role at MASA?",
+    "doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "What is Ana Valdivia's nationality, and why is her inclusion significant for the MASA program?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "What does the MBS program study regarding long-duration spaceflight effects on human physiology?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "What was the first critical milestone after the separation of the Kuntur Station payload from the launch vehicle?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-025"
+  },
+  {
+    "query": "Commander Reyes has noted Kozlov's ability to integrate into multinational teams—can you provide an example?",
+    "doc_id": "MASA-DOC-034"
+  },
+  {
+    "query": "Does the Vicuña module have any permanent workstations or crew cabins?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "Which previous missions contributed to the lessons learned for the current regulatory framework?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What modules of Kuntur Station are typically depicted on the commemorative mission patches?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-036"
+  },
+  {
+    "query": "Why was Bogotá chosen as the location for MASA’s headquarters?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "We’re seeing fluctuations in signal—what’s the automatic response if the system detects a drop in signal strength?",
+    "doc_id": "MASA-DOC-016",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "What kind of medical evaluations are required to ensure candidates can withstand the physical stresses of launch?",
+    "doc_id": "MASA-DOC-052",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "What is the weekly schedule for medical examinations and who is responsible for conducting them?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "During a routine check, we noticed power consumption in Tucán is at 82%—is this within normal operational limits?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-014"
+  },
+  {
+    "query": "We need to verify the origin of the Tucán module's assembly—was it built in Colombia or Brazil?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "The Kuntur Station complete systems overview mentions reaction wheels and magnetic torque rods — how do these stabilize the station’s orientation?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-053"
+  },
+  {
+    "query": "Which South American country had made significant advancements in rocket technology before MASA’s formation?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "The lighting system in Jaguar seems to be malfunctioning. Is this part of the Class A redundancy or a separate system?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "Which module is best suited for tracking urban expansion in South America from the station?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-058"
+  },
+  {
+    "query": "Pilot Valdivia needs to perform MASA-OPS-008—what does this procedure entail for communication window management?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Which MASA operational procedure covers cargo transfers and inventory updates in Vicuña?",
+    "doc_id": "MASA-DOC-005",
+    "hard_negative_doc_id": "MASA-DOC-021"
+  },
+  {
+    "query": "How many full preventive maintenance cycles were completed during this mission?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "Which crew member was responsible for initiating the scientific program in the Quetzal laboratory?",
+    "doc_id": "MASA-DOC-025",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "If pressure drops to 88 kPa, do we follow MASA-SEC-010 or a different emergency protocol?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-007"
+  },
+  {
+    "query": "Can you confirm whether the environmental monitoring program includes real-time tracking of air quality during launch operations?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-015"
+  },
+  {
+    "query": "What is the frequency of the MASA-OPS-002 procedure, and how does it impact daily station operations?",
+    "doc_id": "MASA-DOC-019"
+  },
+  {
+    "query": "What is the maximum allowable pressure deviation before an abort is initiated?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "In the Kuntur Station complete systems overview, how does the star-like configuration with Cóndor as central hub enable module interconnection?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "What role does cultural diversity play in crew cohesion, and how does Al-Hassan contribute to this dynamic?",
+    "doc_id": "MASA-DOC-033"
+  },
+  {
+    "query": "We need to verify the frequency range for the primary S-band antenna—can you provide those details?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Under the system failure protocols, what is the scope of MASA-SEC-018 and why is it limited to the affected module?",
+    "doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Who are the two specialists responsible for overseeing EVA procedures in the Quetzal module?",
+    "doc_id": "MASA-DOC-020",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Which emergency response protocol would be required if oxygen levels drop due to inadequate maintenance?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "What are the standard temperature limits for the Colibrí module?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Kai just reported Jaguar's temperature is rising at 4.7 degrees per minute—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "What happens if the primary oxygen generation system fails? How quickly should the backup take over?",
+    "doc_id": "MASA-DOC-003",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Can you confirm the solar pointing accuracy tolerance of the two-axis gimbal system?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Why do we have an 85 kPa threshold for pressure drops instead of something higher or lower?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "I need a quick refresher on the Andean mythology tied to the condor’s association with the upper world",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What leadership qualities does Commander Reyes exhibit that are critical for Kuntur Station operations?",
+    "doc_id": "MASA-DOC-030",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Can you confirm the atmospheric pressure thresholds the Tucán module is designed to maintain?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Which module houses the Main Power Control Unit for the station?",
+    "doc_id": "MASA-DOC-014",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Can you verify the critical oxygen threshold that would trigger automatic module isolation?",
+    "doc_id": "MASA-DOC-015",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "What measures are in place to prevent contamination or data corruption during experiments?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "What emergency measures does MASA-SEC-007 require after 30 minutes of ground control communication blackout?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "How does the station’s vantage point in Low Earth Orbit enhance the quality of images captured for climate research?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Can you verify the altitude range for Kuntur Station’s orbital operations involving the Cóndor module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "What was the exact duration of the Cóndor-2 mission in days?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "Who oversees the crew shift handovers and under which operational protocol?",
+    "doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "How does the arid climate of the Guajira Peninsula influence the ecological risks associated with launch activities?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "Radiation sensors in Colibrí are reading 6.3 mSv/hr and rising—should we escalate this to command?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What does *kuntur* translate to in Quechua, and why was it selected for the station?",
+    "doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "Which disciplines are supported by the Quetzal module's experimental capabilities?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "Can you verify Ana Valdivia's age and how it relates to her experience level in the crew?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "The Quetzal module was named after a significant cultural symbol—what was its primary function on Kuntur Station?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-051"
+  },
+  {
+    "query": "Cóndor pressure sensors are showing 88.1 kPa and declining — Commander Reyes has confirmed the reading. What emergency procedure should we initiate for this scenario?",
+    "doc_id": "MASA-DOC-007",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "We’ve lost all ground contact through Colibrí—blackout now at 89 minutes and counting. What emergency procedure should we initiate for this kind of communications failure?",
+    "doc_id": "MASA-DOC-011",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "The life support team needs to know the normal pressure range to calibrate the backup systems—can you provide it?",
+    "doc_id": "MASA-DOC-006",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Are there any upcoming changes to the environmental monitoring program based on recent findings?",
+    "doc_id": "MASA-DOC-058",
+    "hard_negative_doc_id": "MASA-DOC-059"
+  },
+  {
+    "query": "What is the current crew capacity of the Quetzal module, and who are the assigned research specialists?",
+    "doc_id": "MASA-DOC-002",
+    "hard_negative_doc_id": "MASA-DOC-041"
+  },
+  {
+    "query": "How did MASA aim to change the dynamic of Latin America’s space exploration efforts compared to previous initiatives?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What was the first operational procedure where the thermal instability in the Jaguar module was detected?",
+    "doc_id": "MASA-DOC-026",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which protocol is activated if temperatures exceed 65.0°C in the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Tucán radiation sensors are at 8.6 mSv/hr and rising—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-009",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Which module is responsible for executing orbital maneuvers and coordinating communication windows?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "What are the potential risks if atmospheric pressure deviates beyond expected parameters?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What research is conducted in the Tucán module under the HECP project with Roscosmos and ISRO?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "Which diagnostic systems are available in the Tucán module for medical examinations?",
+    "doc_id": "MASA-DOC-042",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Kai just reported Jaguar's temperature is rising at 4.7 degrees per minute—what emergency response should we initiate?",
+    "doc_id": "MASA-DOC-008",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "What was the intended purpose of the Colibrí module when it was first designed?",
+    "doc_id": "MASA-DOC-053",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Which protocol is triggered in case of a communication blackout during docking?",
+    "doc_id": "MASA-DOC-021",
+    "hard_negative_doc_id": "MASA-DOC-011"
+  },
+  {
+    "query": "Who is the other science specialist working alongside Al-Hassan in the Quetzal module?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Hull stress readings in Quetzal have hit 90.5% — Kai Nakamura reports possible micrometeorite impact. What emergency steps do we initiate?",
+    "doc_id": "MASA-DOC-010",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Are there any scheduled high-resolution imaging tasks for the Colibrí module in the next 24 hours?",
+    "doc_id": "MASA-DOC-059",
+    "hard_negative_doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "How did the automated deployment sequence ensure the station’s operational integrity?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-018"
+  },
+  {
+    "query": "Are there any exceptions to the compliance requirements for crew members based on nationality?",
+    "doc_id": "MASA-DOC-037",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "Which document outlines the Daily System Health Check procedure referenced in the report?",
+    "doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "Is the Vicuña module capable of maintaining environmental stability during undocked phases?",
+    "doc_id": "MASA-DOC-005"
+  },
+  {
+    "query": "What measures are in place to prevent food particles from escaping during meal preparation?",
+    "doc_id": "MASA-DOC-055",
+    "hard_negative_doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Can you list the modules involved in the comprehensive emergency drill simulations?",
+    "doc_id": "MASA-DOC-022",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "The Kuntur Station complete systems overview describes rigid docking collars and flexible expansion joints — how do they manage thermal stress?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "How many years of experience does Valdivia have in orbital navigation and communications systems?",
+    "doc_id": "MASA-DOC-031"
+  },
+  {
+    "query": "The radiation monitor just alerted us to a spike—what’s the critical exposure threshold that triggers station-wide emergency protocols?",
+    "doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "What role does the Alcântara launch center in Brazil play in the inter-agency cooperation framework?",
+    "doc_id": "MASA-DOC-057",
+    "hard_negative_doc_id": "MASA-DOC-058"
+  },
+  {
+    "query": "Which crew member was responsible for coordinating station commissioning activities?",
+    "doc_id": "MASA-DOC-024",
+    "hard_negative_doc_id": "MASA-DOC-030"
+  },
+  {
+    "query": "Which languages is Science Specialist Nakamura fluent in for crew communications?",
+    "doc_id": "MASA-DOC-032"
+  },
+  {
+    "query": "What is the temperature range that the Jaguar module maintains to prevent condensation and optimize crew comfort?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "Which program includes lessons on microgravity physics and space biology?",
+    "doc_id": "MASA-DOC-054",
+    "hard_negative_doc_id": "MASA-DOC-061"
+  },
+  {
+    "query": "Crew is prepping for high-bandwidth data transmission—what’s the expected data rate for X-band?",
+    "doc_id": "MASA-DOC-016"
+  },
+  {
+    "query": "We’ve got a steady temperature rise in the habitat module—how quickly must it be increasing to trigger SEC-003?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "What happens if both fire and thermal runaway are detected at the same time in the same module?",
+    "doc_id": "MASA-DOC-038",
+    "hard_negative_doc_id": "MASA-DOC-008"
+  },
+  {
+    "query": "Why does the *Cóndor* module specifically represent leadership and exploration?",
+    "doc_id": "MASA-DOC-051",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "The crew is concerned about potential altitude sickness. What pressure range does Jaguar maintain to prevent this?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What is the purpose of having both the station engineer and commander perform the health check?",
+    "doc_id": "MASA-DOC-018",
+    "hard_negative_doc_id": "MASA-DOC-022"
+  },
+  {
+    "query": "What was the role of the solar arrays in the success of the Cóndor-1 mission?",
+    "doc_id": "MASA-DOC-023"
+  },
+  {
+    "query": "Who is the Specialist of Venezuelan descent and what is their primary responsibility?",
+    "doc_id": "MASA-DOC-029",
+    "hard_negative_doc_id": "MASA-DOC-006"
+  },
+  {
+    "query": "Can you detail the responsibilities of Specialist 1 Kai Nakamura during an EVA?",
+    "doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "Does the station broadcast special events from Earth for the crew, and what communication methods support this?",
+    "doc_id": "MASA-DOC-056",
+    "hard_negative_doc_id": "MASA-DOC-054"
+  },
+  {
+    "query": "Which MASA protocol involving communication failures is Valdivia specifically trained to handle at high severity?",
+    "doc_id": "MASA-DOC-031",
+    "hard_negative_doc_id": "MASA-DOC-037"
+  },
+  {
+    "query": "Medical Officer Lucía Mendoza just reported crew vitals showing distress in Cóndor—what emergency procedure do we follow?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "According to the Kuntur Station complete systems overview, what navigation systems in Colibrí counteract orbital perturbations?",
+    "doc_id": "MASA-DOC-036",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "What steps are taken to ensure the mission patches resonate with both the crew and the public?",
+    "doc_id": "MASA-DOC-060",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What are the critical atmospheric composition parameters Kozlov manages at 408 km altitude?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What are the six primary supply categories in the Vicuña module?",
+    "doc_id": "MASA-DOC-039"
+  },
+  {
+    "query": "Which modules are covered under the MASA-OPS-002 maintenance procedure?",
+    "doc_id": "MASA-DOC-019",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "We're preparing for an emergency scenario. How does Jaguar ensure uninterrupted life support during a single-system failure?",
+    "doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What kind of experiments are most sensitive to deviations in the 18.0°C to 26.0°C temperature range?",
+    "doc_id": "MASA-DOC-041",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "Can you describe Al-Hassan’s expertise in managing microgravity experiments, particularly with environmental fluctuations?",
+    "doc_id": "MASA-DOC-033",
+    "hard_negative_doc_id": "MASA-DOC-029"
+  },
+  {
+    "query": "What was the primary objective of the Cóndor-1 mission, and was it achieved?",
+    "doc_id": "MASA-DOC-023",
+    "hard_negative_doc_id": "MASA-DOC-024"
+  },
+  {
+    "query": "What were the long-term aspirations of MASA in terms of Latin America’s presence in space?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What were the key motivations behind uniting South America’s scientific and technological strengths under MASA?",
+    "doc_id": "MASA-DOC-050",
+    "hard_negative_doc_id": "MASA-DOC-057"
+  },
+  {
+    "query": "What are the oxygen level requirements for the Colibrí module?",
+    "doc_id": "MASA-DOC-040",
+    "hard_negative_doc_id": "MASA-DOC-004"
+  },
+  {
+    "query": "Can you confirm the redundancy level for flight control systems in the primary command module?",
+    "doc_id": "MASA-DOC-001",
+    "hard_negative_doc_id": "MASA-DOC-003"
+  },
+  {
+    "query": "What is the pressure gradient maintained between Cóndor and the peripheral modules during nominal operations?",
+    "doc_id": "MASA-DOC-017",
+    "hard_negative_doc_id": "MASA-DOC-001"
+  },
+  {
+    "query": "We're seeing a temperature deviation in the command hub - what's the automated response at the low-severity threshold?",
+    "doc_id": "MASA-DOC-013",
+    "hard_negative_doc_id": "MASA-DOC-026"
+  },
+  {
+    "query": "What is Kozlov's role in maintaining thermal regulation aboard Kuntur Station?",
+    "doc_id": "MASA-DOC-034",
+    "hard_negative_doc_id": "MASA-DOC-013"
+  },
+  {
+    "query": "Control just confirmed simultaneous failures in life support and power distribution — at what point do we trigger full station evacuation under MASA-SEC-020?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "If we need to evacuate Kuntur Station immediately, which module houses the primary evacuation capsule and where is the backup located?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "During an evacuation scenario, who handles the MAYDAY signal transmission and from which module do they operate?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "Walk me through the crew evacuation order for MASA-SEC-020 — who leads the process and who performs the final module sweep?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "What specific responsibility does Engineer Pavel Kozlov have during an emergency station evacuation?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "Can the evacuation capsules hold the entire six-person crew complement at once, and what independent systems do they carry?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "We just got a positive biological contamination reading in the Quetzal lab — who needs to be notified and what immediate quarantine steps are required under MASA-SEC-019?",
+    "doc_id": "MASA-DOC-012",
+    "hard_negative_doc_id": "MASA-DOC-002"
+  },
+  {
+    "query": "What standardized information is included in the MAYDAY transmission format broadcast during a MASA-SEC-020 evacuation?",
+    "doc_id": "MASA-DOC-012"
+  },
+  {
+    "query": "How frequently are the evacuation capsules inspected, and which specific systems receive particular attention during maintenance checks?",
+    "doc_id": "MASA-DOC-012",
+    "hard_negative_doc_id": "MASA-DOC-020"
+  },
+  {
+    "query": "If the Cóndor module is compromised during an emergency, what alternative evacuation path and capsule does the crew use?",
+    "doc_id": "MASA-DOC-012"
+  }
+]

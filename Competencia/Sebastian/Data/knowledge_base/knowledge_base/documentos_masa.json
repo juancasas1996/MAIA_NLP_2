@@ -1,0 +1,434 @@
+{
+  "MASA-DOC-001": {
+    "title": "Cóndor Module — Technical Operations Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-001\\doc.md",
+    "word_count": 1503,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-002": {
+    "title": "Quetzal Module — Scientific Laboratory Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-002\\doc.md",
+    "word_count": 1880,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-003": {
+    "title": "Jaguar Module — Life Support Systems Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-003\\doc.md",
+    "word_count": 1640,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-004": {
+    "title": "Colibrí Module — Communications and Navigation Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-004\\doc.md",
+    "word_count": 1684,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-005": {
+    "title": "Vicuña Module — Storage and Cargo Operations Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-005\\doc.md",
+    "word_count": 1495,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-006": {
+    "title": "Tucán Module — Crew Quarters and Medical Facilities Manual",
+    "type": "module_manual",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-006\\doc.md",
+    "word_count": 1952,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-007": {
+    "title": "Atmospheric Emergency Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-007\\doc.md",
+    "word_count": 1917,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-008": {
+    "title": "Thermal and Fire Safety Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-008\\doc.md",
+    "word_count": 2103,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-009": {
+    "title": "Radiation Safety Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-009\\doc.md",
+    "word_count": 2665,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-010": {
+    "title": "Structural and Mechanical Safety Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-010\\doc.md",
+    "word_count": 1296,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-011": {
+    "title": "System Failure Response Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-011\\doc.md",
+    "word_count": 1997,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-012": {
+    "title": "Critical Response and Evacuation Protocols",
+    "type": "protocol_group",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-012\\doc.md",
+    "word_count": 1433,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-013": {
+    "title": "Thermal Management System Guide",
+    "type": "system_guide",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-013\\doc.md",
+    "word_count": 2136,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-014": {
+    "title": "Power Distribution and Management Guide",
+    "type": "system_guide",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-014\\doc.md",
+    "word_count": 1080,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-015": {
+    "title": "Life Support Systems Comprehensive Guide",
+    "type": "system_guide",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-015\\doc.md",
+    "word_count": 1657,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-016": {
+    "title": "Communications Infrastructure Guide",
+    "type": "system_guide",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-016\\doc.md",
+    "word_count": 2202,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-017": {
+    "title": "Ventilation and Filtration Systems Guide",
+    "type": "system_guide",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-017\\doc.md",
+    "word_count": 1476,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-018": {
+    "title": "Daily Operations and Shift Management Procedures",
+    "type": "operational_procedure",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-018\\doc.md",
+    "word_count": 1665,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-019": {
+    "title": "Maintenance and Calibration Procedures",
+    "type": "operational_procedure",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-019\\doc.md",
+    "word_count": 1155,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-020": {
+    "title": "EVA and External Operations Procedures",
+    "type": "operational_procedure",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-020\\doc.md",
+    "word_count": 1641,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-021": {
+    "title": "Docking, Cargo, and Supply Procedures",
+    "type": "operational_procedure",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-021\\doc.md",
+    "word_count": 1433,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-022": {
+    "title": "Emergency Drills and Training Procedures",
+    "type": "operational_procedure",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-022\\doc.md",
+    "word_count": 1620,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-023": {
+    "title": "Mission Report: Cóndor-1 — Initial Orbital Insertion",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-023\\doc.md",
+    "word_count": 1392,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-024": {
+    "title": "Mission Report: Cóndor-2 — First Crewed Mission",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-024\\doc.md",
+    "word_count": 1116,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-025": {
+    "title": "Mission Report: Cóndor-3 — Full Crew Activation",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-025\\doc.md",
+    "word_count": 1035,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-026": {
+    "title": "Mission Report: Cóndor-4 — Emergency Thermal Repair",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-026\\doc.md",
+    "word_count": 1220,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-027": {
+    "title": "Mission Report: Cóndor-5 — Automated Cargo Resupply",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-027\\doc.md",
+    "word_count": 1086,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-028": {
+    "title": "Mission Report: Cóndor-6 — Crew Rotation and Antenna Upgrade",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-028\\doc.md",
+    "word_count": 1107,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-029": {
+    "title": "Mission Report: Cóndor-7 — Current Operational Mission",
+    "type": "mission_record",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-029\\doc.md",
+    "word_count": 830,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-030": {
+    "title": "Crew Profile: Commander Santiago Reyes",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-030\\doc.md",
+    "word_count": 1007,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-031": {
+    "title": "Crew Profile: Pilot Ana Valdivia",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-031\\doc.md",
+    "word_count": 887,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-032": {
+    "title": "Crew Profile: Science Specialist Kai Nakamura",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-032\\doc.md",
+    "word_count": 1123,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-033": {
+    "title": "Crew Profile: Science Specialist Fátima Al-Hassan",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-033\\doc.md",
+    "word_count": 858,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-034": {
+    "title": "Crew Profile: Systems Engineer Pavel Kozlov",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-034\\doc.md",
+    "word_count": 839,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-035": {
+    "title": "Crew Profile: Medical Officer Lucía Mendoza",
+    "type": "crew_profile",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-035\\doc.md",
+    "word_count": 608,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-036": {
+    "title": "Kuntur Station — Complete Systems Overview",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-036\\doc.md",
+    "word_count": 2079,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-037": {
+    "title": "MASA Internal Regulations and Code of Conduct",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-037\\doc.md",
+    "word_count": 2289,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-038": {
+    "title": "Emergency Quick-Reference Card",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-038\\doc.md",
+    "word_count": 1851,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-039": {
+    "title": "Inventory Management and Supply Chain Guide",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-039\\doc.md",
+    "word_count": 2342,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-040": {
+    "title": "Orbital Navigation and Trajectory Management Guide",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-040\\doc.md",
+    "word_count": 1410,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-041": {
+    "title": "Scientific Research Program Overview",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-041\\doc.md",
+    "word_count": 1482,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-042": {
+    "title": "Crew Health and Fitness Program",
+    "type": "cross_cutting",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-042\\doc.md",
+    "word_count": 1284,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-050": {
+    "title": "MASA — Agency History and Founding Vision",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-050\\doc.md",
+    "word_count": 877,
+    "status": "success",
+    "validation_passed": null
+  },
+  "MASA-DOC-051": {
+    "title": "Kuntur Station — Design Heritage and Naming Origins",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-051\\doc.md",
+    "word_count": 1077,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-052": {
+    "title": "MASA Astronaut Training Program Overview",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-052\\doc.md",
+    "word_count": 916,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-053": {
+    "title": "Kuntur Station Construction Timeline",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-053\\doc.md",
+    "word_count": 992,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-054": {
+    "title": "MASA Public Affairs and Educational Outreach",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-054\\doc.md",
+    "word_count": 643,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-055": {
+    "title": "Space Nutrition and Meal Planning on Kuntur Station",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-055\\doc.md",
+    "word_count": 817,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-056": {
+    "title": "Crew Recreation and Morale Activities",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-056\\doc.md",
+    "word_count": 752,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-057": {
+    "title": "MASA Inter-Agency Cooperation Framework",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-057\\doc.md",
+    "word_count": 1632,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-058": {
+    "title": "Environmental Impact Assessment of MASA Launch Operations",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-058\\doc.md",
+    "word_count": 1011,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-059": {
+    "title": "Photography and Earth Observation from Kuntur Station",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-059\\doc.md",
+    "word_count": 697,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-060": {
+    "title": "MASA Commemorative Mission Patches and Insignia",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-060\\doc.md",
+    "word_count": 658,
+    "status": "success",
+    "validation_passed": true
+  },
+  "MASA-DOC-061": {
+    "title": "Microgravity Effects on Human Physiology — General Overview",
+    "type": "noise",
+    "file_path": "C:\\Users\\ASUS\\Desktop\\Andes\\Maestria\\MAIA\\MAPLN\\proyecto_artemis\\base_conocimiento\\MASA-DOC-061\\doc.md",
+    "word_count": 816,
+    "status": "success",
+    "validation_passed": true
+  }
+}

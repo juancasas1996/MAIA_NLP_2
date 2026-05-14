@@ -1,0 +1,219 @@
+{
+  "tools": [
+    {
+      "name": "get_telemetry",
+      "description": "Retrieve real-time sensor data for a specific module and metric over a given timeframe.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "metric": {
+          "type": "enum",
+          "values": ["temperature", "pressure", "oxygen", "radiation", "humidity", "power"]
+        },
+        "timeframe_hours": {
+          "type": "enum",
+          "values": [1, 6, 12, 24]
+        }
+      },
+      "parameter_order": ["module", "metric", "timeframe_hours"],
+      "example": "get_telemetry(module='jaguar',metric='temperature',timeframe_hours=6)"
+    },
+    {
+      "name": "get_crew_status",
+      "description": "Retrieve current status information for crew members assigned to a specific module.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "info": {
+          "type": "enum",
+          "values": ["health", "location", "current_activity", "schedule"]
+        }
+      },
+      "parameter_order": ["module", "info"],
+      "example": "get_crew_status(module='condor',info='health')"
+    },
+    {
+      "name": "get_module_status",
+      "description": "Retrieve the operational status of a specific system within a module.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "system": {
+          "type": "enum",
+          "values": ["life_support", "power", "thermal", "structural", "communications"]
+        }
+      },
+      "parameter_order": ["module", "system"],
+      "example": "get_module_status(module='jaguar',system='life_support')"
+    },
+    {
+      "name": "send_alert",
+      "description": "Send an alert to mission control for a specific module with a defined severity and reason.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "severity": {
+          "type": "enum",
+          "values": ["low", "medium", "high", "critical"]
+        },
+        "reason": {
+          "type": "enum",
+          "values": [
+            "abnormal_temperature",
+            "pressure_drop",
+            "oxygen_leak",
+            "radiation_spike",
+            "system_failure",
+            "power_fluctuation",
+            "communication_loss",
+            "structural_damage"
+          ]
+        }
+      },
+      "parameter_order": ["module", "severity", "reason"],
+      "example": "send_alert(module='quetzal',severity='critical',reason='abnormal_temperature')"
+    },
+    {
+      "name": "send_message",
+      "description": "Send a message to a specific crew member or the entire crew with a defined priority.",
+      "parameters": {
+        "recipient": {
+          "type": "enum",
+          "values": ["commander", "pilot", "specialist_1", "specialist_2", "engineer", "medical_officer", "all_crew"]
+        },
+        "priority": {
+          "type": "enum",
+          "values": ["low", "medium", "high", "urgent"]
+        }
+      },
+      "parameter_order": ["recipient", "priority"],
+      "example": "send_message(recipient='engineer',priority='urgent')"
+    },
+    {
+      "name": "schedule_maintenance",
+      "description": "Schedule a maintenance task for a specific module with a defined priority.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "task": {
+          "type": "enum",
+          "values": [
+            "sensor_repair",
+            "filter_replacement",
+            "system_calibration",
+            "hull_inspection",
+            "power_cell_swap",
+            "software_update"
+          ]
+        },
+        "priority": {
+          "type": "enum",
+          "values": ["routine", "urgent"]
+        }
+      },
+      "parameter_order": ["module", "task", "priority"],
+      "example": "schedule_maintenance(module='jaguar',task='sensor_repair',priority='urgent')"
+    },
+    {
+      "name": "activate_protocol",
+      "description": "Activate a MASA security protocol with a defined scope.",
+      "parameters": {
+        "protocol_id": {
+          "type": "enum",
+          "values": [
+            "MASA-SEC-001", "MASA-SEC-002", "MASA-SEC-003", "MASA-SEC-004",
+            "MASA-SEC-005", "MASA-SEC-006", "MASA-SEC-007", "MASA-SEC-008",
+            "MASA-SEC-009", "MASA-SEC-010", "MASA-SEC-011", "MASA-SEC-012",
+            "MASA-SEC-013", "MASA-SEC-014", "MASA-SEC-015", "MASA-SEC-016",
+            "MASA-SEC-017", "MASA-SEC-018", "MASA-SEC-019", "MASA-SEC-020"
+          ]
+        },
+        "scope": {
+          "type": "enum",
+          "values": ["module_only", "station_wide"]
+        }
+      },
+      "parameter_order": ["protocol_id", "scope"],
+      "example": "activate_protocol(protocol_id='MASA-SEC-001',scope='station_wide')"
+    },
+    {
+      "name": "control_system",
+      "description": "Control a specific environmental system within a module.",
+      "parameters": {
+        "module": {
+          "type": "enum",
+          "values": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+        },
+        "system": {
+          "type": "enum",
+          "values": ["ventilation", "heating", "lighting", "cooling", "filtration"]
+        },
+        "action": {
+          "type": "enum",
+          "values": ["activate", "deactivate", "increase", "decrease"]
+        }
+      },
+      "parameter_order": ["module", "system", "action"],
+      "example": "control_system(module='quetzal',system='cooling',action='increase')"
+    },
+    {
+      "name": "calculate_trajectory",
+      "description": "Calculate an orbital trajectory or maneuver with a defined urgency level.",
+      "parameters": {
+        "maneuver": {
+          "type": "enum",
+          "values": ["orbit_adjustment", "docking", "debris_avoidance", "reentry", "station_keeping"]
+        },
+        "urgency": {
+          "type": "enum",
+          "values": ["planned", "immediate"]
+        }
+      },
+      "parameter_order": ["maneuver", "urgency"],
+      "example": "calculate_trajectory(maneuver='debris_avoidance',urgency='immediate')"
+    },
+    {
+      "name": "request_supply",
+      "description": "Submit a supply request to MASA ground control with a defined urgency level.",
+      "parameters": {
+        "category": {
+          "type": "enum",
+          "values": ["medical", "food", "equipment", "fuel", "spare_parts", "scientific"]
+        },
+        "urgency": {
+          "type": "enum",
+          "values": ["routine", "expedited", "emergency"]
+        }
+      },
+      "parameter_order": ["category", "urgency"],
+      "example": "request_supply(category='medical',urgency='emergency')"
+    },
+    {
+      "name": "no_action",
+      "description": "No tool action is required. Use when the query is informational, historical, or does not require any system interaction.",
+      "parameters": {},
+      "parameter_order": [],
+      "example": "no_action"
+    }
+  ],
+  "canonical_format": {
+    "rules": [
+      "No spaces after commas",
+      "Parameters in defined order",
+      "String values in single quotes",
+      "All lowercase",
+      "Numeric values unquoted"
+    ],
+    "modules": ["condor", "quetzal", "jaguar", "colibri", "vicuna", "tucan"]
+  }
+}

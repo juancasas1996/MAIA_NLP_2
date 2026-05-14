@@ -1,0 +1,59 @@
+# MASA-DOC-018: Daily Operations and Shift Management Procedures
+
+## MASA-OPS-001: Daily System Health Check
+
+The Daily System Health Check (MASA-OPS-001) is a comprehensive inspection of all station systems and telemetry, conducted every 24 hours with a duration of 90 minutes. This procedure is critical for maintaining the operational integrity of Kuntur Station and is performed at 06:00 UTC daily. The responsibility for this check falls jointly on the station engineer and the commander, ensuring that both technical and command perspectives are applied to the evaluation of system health.
+
+The scope of MASA-OPS-001 encompasses all modules—Cóndor, Quetzal, Jaguar, Colibrí, Vicuña, and Tucán—with a focus on five primary systems: life support, power, thermal, structural, and communications. The life support system check includes verification of oxygen levels, CO2 scrubbing efficiency, and atmospheric pressure, all of which are critical for crew survival. Oxygen levels are monitored to ensure they remain within expected parameters, with any deviation triggering a medium-severity alert and activating MASA-SEC-002 (Oxygen Depletion Response), a critical-severity protocol. CO2 levels are checked to ensure they do not exceed acceptable parameters, as higher levels can lead to crew discomfort and impaired cognitive function. Atmospheric pressure is maintained within expected parameters, with deviations beyond this range requiring immediate corrective action to prevent potential decompression risks.
+
+The power system inspection involves verifying the functionality of the solar arrays, battery storage, and power distribution units. The solar arrays must maintain an output to meet the station's operational demands, with any notable drop in output potentially indicating a failure in the array or its tracking mechanism. Battery storage is checked to ensure it can provide backup power, which is critical for maintaining station operations during periods of reduced solar exposure. Power distribution units are inspected for any signs of overheating or electrical anomalies, which could lead to system-wide power failures and trigger MASA-SEC-006 (Power Grid Critical Failure).
+
+Thermal system checks focus on the cooling loops and heat exchangers that regulate the internal temperature of each module. The expected operating temperature range for all modules is maintained within acceptable parameters, with deviations triggering a low-severity alert and activating MASA-SEC-003 (Fire and Thermal Runaway Suppression). The thermal system is particularly critical in the Jaguar module, which houses sensitive life support equipment that can be adversely affected by temperature fluctuations.
+
+Structural integrity checks involve inspecting the station's hull and internal framework for any signs of stress or damage. This includes visual inspections of the exterior via external cameras and internal checks for any unusual vibrations or noises that could indicate structural issues. Any anomalies detected during these checks could trigger MASA-SEC-008 (Structural Integrity Alert), a high-severity protocol that requires immediate attention to prevent potential catastrophic failures.
+
+Communications system checks ensure that all internal and external communication links are operational. This includes verifying the functionality of the Colibrí module's communication arrays, which are responsible for maintaining contact with ground stations and other spacecraft. Any disruption in communication capabilities could trigger MASA-SEC-007 (Communication Blackout Protocol), a high-severity protocol that requires immediate corrective action to restore communication links.
+
+The Daily System Health Check is a critical procedure that ensures the continued safe operation of Kuntur Station. By systematically inspecting all major systems, the station crew can identify and address potential issues before they escalate into critical emergencies. This procedure is a cornerstone of the station's operational protocol, providing a structured approach to maintaining system health and crew safety.
+
+## MASA-OPS-006: Crew Shift Handoff
+
+The Crew Shift Handoff (MASA-OPS-006) is a formal procedure conducted twice daily at 06:00 UTC and 18:00 UTC, marking the transition of station monitoring responsibilities between the outgoing and incoming watch crew. This 30-minute procedure is essential for maintaining continuous oversight of all station systems and ensuring that important information is effectively communicated between shifts.
+
+During the handoff, all crew members participate, with each individual responsible for providing a detailed report on the status of their assigned systems and modules. The commander, Santiago Reyes, oversees the handoff from the Cóndor module, ensuring that all important information is accurately conveyed and that any outstanding issues are properly addressed. The pilot, Ana Valdivia, provides an update on the status of the Colibrí module's communication systems and any upcoming communication windows with ground stations. The specialists, Kai Nakamura and Fátima Al-Hassan, report on the status of the Quetzal module's scientific experiments and any ongoing research activities. The engineer, Pavel Kozlov, provides a detailed update on the status of the Jaguar module's life support and power systems, while the medical officer, Lucía Mendoza, reports on the health status of the crew and any medical concerns.
+
+The handoff procedure begins with a review of the station's overall status, including any alerts or anomalies that have occurred during the outgoing shift. Each crew member then provides a detailed report on their specific areas of responsibility, highlighting any issues that require attention or follow-up. This includes a review of the station's environmental systems, such as oxygen levels, CO2 scrubbing efficiency, and atmospheric pressure, as well as the status of the power and thermal systems.
+
+The handoff also includes a review of the station's communication schedule, with the pilot providing an update on any upcoming communication windows with ground stations. This ensures that the incoming shift is aware of any scheduled contacts and can prepare accordingly. Additionally, the handoff includes a review of the station's scientific experiments, with the specialists providing an update on the status of ongoing research activities and any upcoming experiment execution.
+
+The Crew Shift Handoff is a critical procedure that ensures the continued safe operation of Kuntur Station. By providing a structured approach to the transition of responsibilities between shifts, this procedure helps to maintain continuous oversight of all station systems and ensures that important information is effectively communicated between crew members.
+
+## MASA-OPS-008: Communication Window Management
+
+The Communication Window Management procedure (MASA-OPS-008) is responsible for the management of scheduled ground station contact windows for data relay and crew communications. This procedure is conducted three times daily, with each window lasting 35 minutes. The responsibility for this procedure falls on the pilot, Ana Valdivia, who operates from the Colibrí module, the station's primary communication hub.
+
+The Communication Window Management procedure is critical for maintaining contact with ground stations and ensuring that data and communications are relayed efficiently. The procedure begins with the pilot verifying the status of the Colibrí module's communication arrays and ensuring that all systems are operational. This includes checking the alignment of the high-gain antennas and verifying the functionality of the communication transceivers.
+
+Once the communication systems are confirmed to be operational, the pilot establishes contact with the designated ground station and begins the data relay process. This includes transmitting telemetry data from all station systems, as well as any scientific data collected during ongoing experiments. The pilot also facilitates crew communications, allowing crew members to send and receive messages from mission control and their families.
+
+During the communication window, the pilot monitors the quality of the communication link and makes any necessary adjustments to maintain a reliable connection. This includes adjusting the antenna alignment to compensate for the station's orbital motion and any atmospheric interference. The pilot also monitors the data transmission rate, ensuring that all important data is transmitted within the allocated window.
+
+In the event of a communication disruption, the pilot is responsible for initiating the appropriate response protocol. If the disruption is brief and can be resolved quickly, the pilot may attempt to re-establish the link and continue the data relay process. However, if the disruption is substantial and cannot be resolved within the allocated window, the pilot may initiate MASA-SEC-007 (Communication Blackout Protocol), a high-severity protocol that requires immediate corrective action to restore communication links.
+
+The Communication Window Management procedure is a critical component of the station's daily operations, ensuring that data and communications are relayed efficiently and that any issues are addressed promptly. By maintaining regular contact with ground stations, the station crew can receive timely updates and support, enhancing the overall safety and efficiency of station operations.
+
+## Daily Schedule Template
+
+The Daily Schedule Template provides a structured framework for the station's daily operations, ensuring that all critical procedures are conducted in a timely and efficient manner. The schedule is designed to accommodate the station's operational requirements, as well as the crew's need for rest and personal time.
+
+The day begins at 06:00 UTC with the Daily System Health Check (MASA-OPS-001), a 90-minute procedure conducted by the engineer and the commander. This comprehensive inspection of all station systems and telemetry ensures that any potential issues are identified and addressed early in the day.
+
+Following the Daily System Health Check, the crew participates in the Crew Shift Handoff (MASA-OPS-006), a 30-minute procedure that marks the transition of station monitoring responsibilities between the outgoing and incoming watch crew. This procedure ensures that important information is effectively communicated between shifts and that all crew members are aware of the station's current status.
+
+Throughout the day, the crew conducts a variety of operational procedures, including scheduled preventive maintenance (MASA-OPS-002), scientific experiment execution (MASA-OPS-009), and life support maintenance (MASA-OPS-010). These procedures are conducted in accordance with the station's operational requirements and the crew's assigned responsibilities.
+
+The Communication Window Management procedure (MASA-OPS-008) is conducted three times daily, with each window lasting 35 minutes. These windows are scheduled to coincide with the station's orbital position, ensuring that contact with ground stations is maintained throughout the day.
+
+In the evening, the crew participates in another Crew Shift Handoff (MASA-OPS-006) at 18:00 UTC, marking the transition of responsibilities to the night shift. This procedure ensures that the incoming shift is fully briefed on the station's current status and any outstanding issues that require attention.
+
+The Daily Schedule Template is designed to provide a structured approach to the station's daily operations, ensuring that all critical procedures are conducted in a timely and efficient manner. By adhering to this schedule, the station crew can maintain continuous oversight of all station systems and ensure the safe and efficient operation of Kuntur Station.
