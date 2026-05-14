@@ -115,20 +115,15 @@ Valores clave:
 
 ### ⏳ Pendiente
 
-#### Exp_2 — encoder fine-tuned (objetivo: superar 88%)
-
-- [ ] **Subir archivos a Drive** para `Exp_2_encoder_tuned/encoder_finetune.ipynb`:
-  - `retrieval_index.json`, `Data/tools_definition.json`, `Data/consultas_centro_control.json`
-  - `Data/train.csv`, `Data/test.csv`, `Data/knowledge_base/`
-- [ ] **Correr `encoder_finetune.ipynb` en Colab T4** (~30 min):
-  - Fine-tune bge-small con TripletLoss (622 hard-negative triplets)
-  - Evalúa P@K baseline vs fine-tuned automáticamente
-  - Regenera PKLs y guarda `encoder_finetuned/` en Drive
-- [ ] **Correr `lora.ipynb` en Colab** con los nuevos PKLs (A100 ~2.5h, T4 ~5-7h)
+- [ ] **Correr celdas de hybrid search en `rag.ipynb`** (sección 3.5 en adelante) y regenerar PKLs
+  - Solo correr desde la celda BM25 hacia abajo — NO re-correr chunking/embedding
+  - Ver métricas Dense vs Hybrid para confirmar mejora
+- [ ] **Correr `lora.ipynb` en Colab** con GPU (A100 ~2.5h, T4 ~5-7h)
+  - Subir a Drive: `train_processed.pkl`, `val_processed.pkl`, `test_processed.pkl`, `retrieval_index.json`, `Data/tools_definition.json`
   - Configurar `DRIVE_PATH` en celda 0
   - Agregar HF token para Llama gateado
 - [ ] **Generar `submission.csv`** desde `lora.ipynb`
-- [ ] **Subir submission a Kaggle** y comparar con Exp_1 (88%)
+- [ ] **Subir submission a Kaggle**
 - [ ] **Guardar `decoder_checkpoint/`** — entregable obligatorio
 
 ---
