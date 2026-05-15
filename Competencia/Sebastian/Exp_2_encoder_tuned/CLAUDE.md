@@ -1,56 +1,38 @@
-# ARTEMIS — CLAUDE.md (Exp_2: encoder fine-tuned)
+# ARTEMIS — CLAUDE.md
 ## Competencia MAPL-202601 · Deadline 2026-05-24
 
-**Experimento 2** — mismo sistema que Exp_1 (88% Kaggle) pero con el encoder **bge-small-en-v1.5 fine-tuneado** mediante TripletLoss sobre los 622 hard-negative triplets de `consultas_centro_control.json`. Objetivo: mejorar el retrieval P@K y con ello el exact match final.
-
----
-
-## Diferencia respecto a Exp_1 (88143)
-
-| | Exp_1 | Exp_2 |
-|---|---|---|
-| Encoder | bge-small base | bge-small **fine-tuned** |
-| FAISS index | vectores originales | vectores del encoder fine-tuned |
-| PKLs | generados con rag.ipynb | generados con **encoder_finetune.ipynb** |
-| Score Kaggle | 88% | pendiente |
-
----
-
-## Orden de ejecución
-
-1. **`encoder_finetune.ipynb`** — Colab T4 (~30 min) — **PRIMERO**
-   - Fine-tune encoder, rebuild FAISS, regenera PKLs, guarda todo en Drive
-2. **`lora.ipynb`** — Colab A100/T4 (~2.5-7h) — SEGUNDO
-   - Usa los PKLs generados por encoder_finetune.ipynb
-3. Subir `submission.csv` a Kaggle
+Sistema RAG + Tool Calling que dada una consulta en lenguaje natural de un operador de la estación espacial Kuntur, genera el **tool call exacto** (exact string match). Score = % de predicciones perfectamente idénticas al ground truth.
 
 ---
 
 ## Estructura de archivos
 
 ```
-Exp_2_encoder_tuned/
+Sebastian/
 ├── CLAUDE.md                     ← este archivo
-├── encoder_finetune.ipynb        ← CORRER PRIMERO (Colab T4) — fine-tune encoder + rebuild index
-├── rag.ipynb                     ← referencia (NO necesario correr — encoder_finetune.ipynb lo reemplaza)
+├── rag.ipynb                     ← CORRER PRIMERO (local Mac) — RAG pipeline
 ├── lora.ipynb                    ← CORRER SEGUNDO (Colab GPU) — LoRA fine-tuning
 ├── pipeline.ipynb                ← entregable obligatorio de la competencia (5 secciones)
 ├── requirements.txt              ← dependencias (local + Colab)
-├── textsplitter.py               ← original de Microsoft Azure (referencia)
+├── textsplitter.py               ← original de Microsoft Azure (NO usar directamente)
 │
 ├── scripts/
-│   ├── chunker.py                ← SentenceTextSplitter standalone
-│   └── build_index.py            ← script alternativo
+│   ├── chunker.py                ← SentenceTextSplitter standalone (extraído de textsplitter.py)
+│   └── build_index.py            ← script alternativo para correr rag sin Jupyter
 │
-├── Data/ → symlink a ../Data/    ← mismos datos que Exp_1
+├── Data/
+│   ├── train.csv                 ← 2,718 ejemplos (query → tool_call), con ruido y duplicados
+│   ├── test.csv                  ← 766 queries a predecir (sin labels)
+│   ├── tools_definition.json     ← 11 herramientas con parámetros enum estrictos
+│   ├── consultas_centro_control.json  ← 810 pares query→doc para métricas P@K / R@K
+│   └── knowledge_base/knowledge_base/
+│       └── MASA-DOC-001/ … MASA-DOC-061/   ← 54 docs Markdown (doc.md por carpeta)
 │
-└── (generados por encoder_finetune.ipynb tras correr en Colab):
-    ├── encoder_finetuned/        ← modelo fine-tuned (guardar en Drive)
-    ├── faiss.index               ← índice con vectores fine-tuned
-    ├── retrieval_index.json      ← chunks + vectores fine-tuned — entregable
-    ├── train_processed.pkl       ← 2,313 filas con context_chunks (encoder fine-tuned)
-    ├── val_processed.pkl         ← 257 filas
-    └── test_processed.pkl        ← 766 filas
+├── faiss.index                   ← GENERADO: índice FAISS (1.1 MB) — 785 vectores
+├── retrieval_index.json          ← GENERADO: chunks + vectores (7.1 MB) — entregable obligatorio
+├── train_processed.pkl           ← GENERADO: train con context_chunks híbrido (2,313 filas)
+├── val_processed.pkl             ← GENERADO: val con context_chunks híbrido (257 filas)
+└── test_processed.pkl            ← GENERADO: test con context_chunks híbrido (766 filas)
 ```
 
 ---
@@ -113,65 +95,66 @@ Valores clave:
    - Métricas dense puras: P@1=0.57, P@3=0.75, P@5=0.81, P@8=0.86
    - PKLs generados con hybrid search (PROMPT_K=3 chunks por ejemplo)
 
-3. **`encoder_finetune.ipynb`** ← **NUEVO en Exp_2** — Colab T4, ~30 min:
-   - Fine-tune bge-small-en-v1.5 con TripletLoss (622 hard-negative triplets)
-   - Evalúa P@K baseline vs fine-tuned automáticamente
-   - Rebuild FAISS con vectores fine-tuned
-   - Regenera PKLs (train/val/test) con hybrid search
-   - Guarda todo en Drive
+3. **Artefactos generados**:
+   - `faiss.index` (1.1 MB)
+   - `retrieval_index.json` (7.1 MB) — entregable obligatorio
+   - `train_processed.pkl` (927 KB) — 2,313 filas con context_chunks
+   - `val_processed.pkl` (310 KB) — 257 filas con context_chunks
+   - `test_processed.pkl` (515 KB) — 766 filas con context_chunks
 
 4. **`lora.ipynb`** — notebook Colab con LoRA fine-tuning completo:
    - LoRA: r=64, alpha=128, dropout=0.05, todos los módulos (q/k/v/o + gate/up/down proj)
    - Solo entrena el tool_call (labels=-100 para prompt/contexto)
    - 8 épocas, batch=4, grad_accum=8 (efectivo=32), lr=2e-4, cosine scheduler
    - Early stopping patience=3
+   - Normalización post-generación: reordena params según tools_definition.json, fuzzy match de tool names
 
 5. **`pipeline.ipynb`** — entregable de competencia (5 secciones requeridas)
 
 6. **`requirements.txt`** — dependencias actualizadas con `rank-bm25`
 
-### ⏳ Pendiente (Exp_2)
+### ⏳ Pendiente
 
-- [ ] **Subir a Drive** antes de encoder_finetune.ipynb:
-  - `retrieval_index.json`, `Data/tools_definition.json`, `Data/consultas_centro_control.json`
-  - `Data/train.csv`, `Data/test.csv`, `Data/knowledge_base/`
-- [ ] **Correr `encoder_finetune.ipynb` en Colab T4** (~30 min)
-- [ ] **Correr `lora.ipynb` en Colab** con GPU A100/T4 (~2.5-7h)
-  - Los PKLs ya fueron generados por encoder_finetune.ipynb
+- [ ] **Correr celdas de hybrid search en `rag.ipynb`** (sección 3.5 en adelante) y regenerar PKLs
+  - Solo correr desde la celda BM25 hacia abajo — NO re-correr chunking/embedding
+  - Ver métricas Dense vs Hybrid para confirmar mejora
+- [ ] **Correr `lora.ipynb` en Colab** con GPU (A100 ~2.5h, T4 ~5-7h)
+  - Subir a Drive: `train_processed.pkl`, `val_processed.pkl`, `test_processed.pkl`, `retrieval_index.json`, `Data/tools_definition.json`
+  - Configurar `DRIVE_PATH` en celda 0
   - Agregar HF token para Llama gateado
 - [ ] **Generar `submission.csv`** desde `lora.ipynb`
-- [ ] **Subir submission a Kaggle** y comparar con 88% de Exp_1
+- [ ] **Subir submission a Kaggle**
 - [ ] **Guardar `decoder_checkpoint/`** — entregable obligatorio
 
 ---
 
 ## Cómo correr el proyecto
 
-### Paso 1 — Encoder fine-tuning + rebuild index (Colab T4, ~30 min)
+### Paso 1 — Hybrid search + regenerar PKLs (local, ~5-8 min)
 
-Subir a Drive (`/content/drive/MyDrive/MASTER/Tercer_semestre/NLP_2/Competencia/`):
-- `retrieval_index.json` (del Exp_1)
-- `Data/tools_definition.json`, `Data/consultas_centro_control.json`
-- `Data/train.csv`, `Data/test.csv`, `Data/knowledge_base/`
+```bash
+cd Sebastian/
+# En Jupyter, abrir rag.ipynb y correr SOLO desde la celda 3.5 (BM25) hacia abajo
+# NO re-correr secciones 0-3 (chunking + embedding ya están en memoria)
+```
 
-Luego abrir `encoder_finetune.ipynb` en Colab T4 y correr todas las celdas.
-El notebook genera y guarda en Drive: `encoder_finetuned/`, `faiss.index`, `retrieval_index.json`, `train_processed.pkl`, `val_processed.pkl`, `test_processed.pkl`.
+Si el kernel fue reiniciado, correr todo desde el principio (~3-5 min total).
 
-### Paso 2 — LoRA fine-tuning (Colab A100/T4)
+### Paso 2 — Fine-tuning en Colab
 
 ```python
 # En lora.ipynb, celda 0:
-DRIVE_PATH = "/content/drive/MyDrive/MASTER/Tercer_semestre/NLP_2/Competencia"
+DRIVE_PATH = "/content/drive/MyDrive/ARTEMIS"   # ajustar al path real
 
-# Agregar HF token:
+# Antes de correr: agregar celda de autenticación HF
 from huggingface_hub import login
 login(token="hf_...")   # token de https://huggingface.co/settings/tokens
 ```
 
-Los PKLs (train/val/test_processed.pkl) ya están en Drive tras el Paso 1.
-
-Archivos adicionales en Drive antes de lora.ipynb:
-- `train_processed.pkl`, `val_processed.pkl`, `test_processed.pkl`
+Archivos a subir a Drive antes de abrir Colab:
+- `train_processed.pkl`
+- `val_processed.pkl`
+- `test_processed.pkl`
 - `retrieval_index.json`
 - `Data/tools_definition.json`
 
